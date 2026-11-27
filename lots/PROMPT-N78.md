@@ -4,8 +4,8 @@ Tu produis les NIVEAUX 7 et 8 (verrous précis et problèmes précis) d'un arbre
 2. Lis en entier le fichier de contexte de ton chantier : /home/user/chantier-cologique-1eressai/lots/contexte/<id du chantier>.md. Il donne sa lignée, sa définition, ses verrous de niveau 6 numérotés, les chantiers voisins (dont le contenu ne va pas chez toi) et les chantiers transverses.
 3. Pour CHAQUE verrou de niveau 6 de ton chantier, dans l'ordre, écris :
    - son critère de partage (comment ses filles sont découpées) ;
-   - 3 à 5 verrous précis de niveau 7 (le plus souvent 3 ou 4), chacun avec libellé, définition, critère de partage, défis, nature ;
-   - sous chaque niveau 7, 3 à 5 problèmes précis de niveau 8 (le plus souvent 3 ou 4), chacun avec libellé, définition, défis, nature.
+   - 3 ou 4 verrous précis de niveau 7 (5 seulement si chacun est indispensable), chacun avec libellé, définition, critère de partage, défis, nature ;
+   - sous chaque niveau 7, 3 ou 4 problèmes précis de niveau 8 (5 seulement si chacun est indispensable), chacun avec libellé, définition, défis, nature.
 4. Exigences de fond :
    - Le niveau 8 suit strictement la forme « une fonction à remplir + la contrainte qui bloque ». Relis les exemples des consignes avant d'écrire. Chaque problème doit être un vrai point dur d'aujourd'hui, que tu saurais expliquer à un professionnel du secteur sans qu'il hausse les épaules.
    - La définition d'un niveau 8 dit en une phrase pourquoi c'est dur ou pour qui (un fait, une cause) ; elle ne répète pas le libellé.
