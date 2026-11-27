@@ -1,0 +1,75 @@
+@ 1 | Par type d'affirmation à encadrer, puis par écart entre les règles des pays
+7 | Fixer le sens des mots vagues comme vert, naturel ou durable | Ces termes courants n'ont aucune définition commune et chaque marque les comprend à sa manière. | Par degré de précision du mot et par type de preuve exigée | R | R
+8 | Interdire un mot vague comme respectueux de la planète sans preuve précise sur le produit | Les tribunaux jugent au cas par cas, faute de liste claire des termes permis et interdits. | R P | R
+8 | Distinguer une affirmation sur le produit d'une affirmation sur la marque entière | Une marque met en avant un geste mineur et laisse croire que toute son activité est vertueuse. | A R | R
+8 | Faire comprendre au consommateur la différence entre naturel, biosourcé et sans danger | Le grand public prête à naturel un sens de sécurité que le mot ne garantit pas. | P B | C
+8 | Évaluer le sens perçu d'un mot par un acheteur moyen, rapidement et sans enquête coûteuse | Les juges et les autorités n'ont pas de méthode simple pour mesurer ce que le public comprend. | R | O
+7 | Encadrer les affirmations climatiques fondées sur la compensation | Les mentions neutre en carbone ou net zéro reposent sur des crédits dont la qualité varie fortement. | Par type de promesse climatique | A | R
+8 | Interdire la mention neutre en carbone pour un produit dont les émissions ne sont que compensées | Les marques s'appuient sur des crédits dont la durabilité et la réalité ne sont pas vérifiables par l'acheteur. | A | R
+8 | Rendre publique la part réelle de réduction et de compensation derrière une promesse climatique | Les entreprises ne séparent pas ce qu'elles ont réduit de ce qu'elles ont acheté en crédits. | A R | R
+8 | Encadrer une promesse de neutralité future sans plan chiffré, publié et contrôlable | Les engagements à échéance lointaine échappent à tout contrôle tant que l'échéance n'est pas atteinte. | A | R
+8 | Exiger la qualité des crédits carbone utilisés pour compenser dans les pays du Sud | Les projets locaux sont difficiles à auditer et leurs bénéfices sont parfois surestimés pour vendre davantage de crédits. | A B | E
+7 | Encadrer les affirmations sur la composition et la santé du produit | Recyclé, biosourcé, sans produit chimique ou non toxique sont des mentions ambiguës qui engagent la santé des acheteurs. | Par type de composant revendiqué | P R | R
+8 | Imposer un seuil minimal de matière recyclée pour afficher la mention recyclé | Aujourd'hui un produit contenant très peu de recyclé peut se dire recyclé sans enfreindre une règle claire. | R | R
+8 | Interdire sans danger ou sans produit chimique quand le produit contient des substances préoccupantes | Les mentions sont pensées comme argument de vente alors que la présence de substances dépend de la formule complète. | P | R
+8 | Définir sans plastique ou sans emballage pour qu'il ne cache pas d'autres matières polluantes | Un produit retire un composant visible et le remplace par un autre à l'impact comparable. | R P | R
+8 | Encadrer la mention d'un produit respectueux de la biodiversité sans mesure d'impact sur le milieu | Aucun indicateur reconnu ne relie un produit à l'effet réel de sa production sur la nature. | B | T
+7 | Harmoniser entre pays les règles sur ce qu'on peut affirmer | Un même produit est vendu partout et la marque choisit la règle du pays le plus permissif. | Par type d'écart entre les juridictions | R | R
+8 | Aligner les définitions de neutre en carbone et de recyclé entre les grands marchés de vente | Les produits circulent dans le monde alors que chaque marché a ses propres définitions. | A R | R
+8 | Faire appliquer les règles du pays de l'acheteur à une vente en ligne depuis l'étranger | Le vendeur peut se réfugier dans un pays dont les règles sont plus souples. | R | R
+8 | Adapter les règles d'allégation aux pays sans cadre juridique ni autorité de contrôle | Beaucoup de pays du Sud n'ont ni loi précise sur les allégations ni service chargé de la faire appliquer. | R | O
+8 | Aider une petite entreprise exportatrice à connaître les règles de chaque marché sans avocat | Les règles changent d'un pays à l'autre et sont rédigées dans une langue juridique peu accessible. | R | O
+@ 2 | Par étape du travail de contrôle, du repérage jusqu'au relais par les acteurs privés
+7 | Repérer les allégations douteuses dans le flux des publicités et des emballages | Des millions de messages apparaissent chaque jour sur des supports très différents et sans registre commun. | Par type de support | R | T
+8 | Détecter automatiquement une allégation environnementale sur une page de vente en ligne | Les formulations varient énormément selon la langue, le produit et le contexte de la phrase. | R | T
+8 | Repérer les allégations sur un emballage imprimé en rayon sans visiter chaque magasin | Les emballages changent souvent et ne sont accessibles qu'en point de vente. | R | O
+8 | Prioriser les allégations à vérifier selon le risque de tromperie et le nombre d'acheteurs touchés | Les autorités n'ont pas de critère partagé pour choisir parmi un flux immense de messages. | R | O
+8 | Conserver la trace datée d'une allégation en ligne qui disparaît quand le contrôleur arrive | Les pages sont modifiées en quelques jours, sans archive acceptée comme preuve. | R | T
+7 | Instruire vite et à peu de frais chaque dossier d'allégation | Chaque dossier demande de l'expertise technique et de longs échanges, ce qui limite le nombre de cas traités. | Par étape de l'instruction | R A | O
+8 | Évaluer techniquement une allégation sans mobiliser un expert coûteux pour chaque dossier | Les agents des autorités de consommation ne sont pas formés aux méthodes de calcul d'impact. | R | O
+8 | Trancher un dossier en quelques mois alors que la marque conteste chaque pièce | Les échanges contradictoires et les recours allongent des procédures déjà peu dotées. | R | O
+8 | Constituer des dossiers types pour traiter en série les allégations identiques de plusieurs marques | Les mêmes mentions se retrouvent chez des dizaines de vendeurs mais chaque dossier est instruit à part. | R | O
+7 | Faire coopérer les autorités entre pays et entre services | Les vendeurs de produits en ligne opèrent depuis l'étranger et plusieurs services se partagent la compétence. | Par frontière à franchir | R | O
+8 | Obtenir d'une place de marché le retrait rapide d'une annonce trompeuse émise depuis l'étranger | La plateforme et le vendeur relèvent de pays différents sans procédure commune de retrait. | R | O
+8 | Partager les décisions de sanction contre une allégation entre autorités de pays différents | Les décisions restent propres à chaque pays et ne sont pas reconnues ailleurs. | R | O
+8 | Répartir le contrôle d'une allégation entre autorité de la consommation, de l'environnement et de la publicité | Chaque service n'en voit qu'une partie et aucun ne se juge responsable de l'ensemble. | R | O
+8 | Doter d'un service de contrôle des allégations un pays du Sud avec très peu d'agents | Les budgets et les compétences techniques manquent alors que les produits importés arrivent en masse. | R | O
+7 | Mobiliser les acteurs privés pour relayer le contrôle des autorités | Concurrents, associations et consommateurs voient des allégations douteuses mais peinent à agir ensemble. | Par type d'acteur relais | R | O
+8 | Permettre à un consommateur de signaler une allégation douteuse en quelques secondes depuis son téléphone | Les voies de signalement sont longues et on ignore ce qu'il advient du message envoyé. | R | C
+8 | Permettre à une association d'agir en justice contre une allégation sans supporter seule des frais élevés | Les procédures sont longues et coûteuses, et le risque de perdre dissuade de les engager. | R | E
+8 | Permettre à un concurrent honnête de faire cesser une allégation mensongère rapidement | La voie judiciaire prend des mois pendant lesquels le concurrent perd des ventes. | R | O
+8 | Utiliser les signalements des plateformes et des journalistes sans les soumettre à des procédures longues | Les autorités n'ont pas de circuit pour traiter rapidement des alertes extérieures. | R | O
+@ 3 | Par type de preuve manquante : documents, mesures, règles des labels, chaînes lointaines
+7 | Donner accès aux audits et aux données d'origine derrière une allégation | Les pièces justificatives sont détenues par la marque ou son certificateur et restent confidentielles. | Par détenteur de la pièce justificative | R | R
+8 | Obliger une marque à fournir ses pièces justificatives dans un délai court à la demande d'un contrôleur | Les marques invoquent le secret des affaires et retardent la remise des dossiers. | R | R
+8 | Rendre consultable par un journaliste le dossier de preuve d'une allégation sans dévoiler la formule du produit | Le secret industriel et le besoin de transparence se heurtent sans arbitrage clair. | R P | O
+8 | Obtenir les preuves d'un fournisseur lointain d'un petit pays sans dépendre de la bonne volonté de la marque | Les pièces sont tenues par des sous-traitants étrangers qui ne répondent qu'à leur client direct. | R | O
+8 | Relier une allégation à un dossier de preuve unique que l'acheteur peut consulter en scannant l'emballage | Aujourd'hui la preuve est dispersée dans plusieurs documents que l'acheteur ne peut pas retrouver. | R | T
+7 | Vérifier physiquement un produit sans essai coûteux | Confirmer une composition ou une performance revendiquée demande des essais en laboratoire hors de portée d'un concurrent ou d'une association. | Par propriété mesurée | P R | T
+8 | Mesurer sur un produit fini le taux réel de matière recyclée sans connaître sa fabrication | Les méthodes de laboratoire savent mal distinguer matière recyclée et matière neuve. | R | T
+8 | Détecter dans un vêtement ou un cosmétique une substance que la marque affirme absente à un coût d'essai raisonnable | Les analyses sont longues et chères et chaque famille de substances demande un essai séparé. | P | T
+8 | Vérifier l'origine déclarée d'un bois, d'un coton ou d'un cacao sur le produit fini | Une fois transformée, la matière ne porte plus de trace de son origine géographique. | B R | T
+8 | Mettre à disposition des laboratoires d'essai indépendants dans les pays du Sud | Les contrôleurs y envoient leurs échantillons à l'étranger, ce qui rend les essais lents et rares. | R P | O
+7 | Rendre vérifiable ce qu'un label garantit réellement | Le cahier des charges et les résultats d'audit de nombreux labels sont peu publics, ce qui empêche d'évaluer leur sérieux. | Par élément d'un label à rendre lisible | R | R
+8 | Publier le cahier des charges complet d'un label dans un format lisible par un non-spécialiste | Les règles sont longues et techniques ou payantes, et peu de gens peuvent juger de leur exigence. | R | R
+8 | Montrer combien de produits d'un label ont réellement été audités et avec quel résultat | Les labels ne communiquent pas sur leurs échecs, ce qui empêche de juger leur sérieux. | R | O
+8 | Comparer l'exigence de plusieurs labels qui portent sur le même sujet | Chacun utilise ses propres critères et il n'existe pas de grille neutre pour les mettre côte à côte. | R | T
+8 | Reconnaître un label créé par la marque elle-même et présenté comme indépendant | Un logo et un nom semblables à ceux d'un vrai label suffisent à tromper l'acheteur pressé. | R | C
+@ 4 | Par ressort économique de la fraude : sanction, gain conservé, indépendance du certificateur, perte de réputation
+7 | Sanctionner l'allégation mensongère à temps et à la hauteur du gain réalisé | Les amendes arrivent des années après la campagne et sont inférieures aux ventes qu'elle a générées. | Par faiblesse de la sanction | A R | E
+8 | Calibrer une amende sur les ventes gagnées grâce à l'allégation trompeuse | Les juges ne disposent pas d'outil pour estimer la part des ventes due à l'allégation. | R A | E
+8 | Faire cesser une campagne trompeuse en quelques semaines sans attendre un jugement définitif | Les procédures d'urgence existent peu et les marques épuisent les recours pendant que la campagne continue. | R | R
+8 | Rendre le dirigeant responsable des allégations de son entreprise au-delà de l'amende payée par la société | La sanction frappe la société et jamais la personne qui a décidé de la campagne. | R | R
+8 | Imposer la publication visible de la condamnation par la marque, au même endroit que l'allégation | Les décisions sont rarement connues des acheteurs qui ont vu la publicité. | R | R
+7 | Rendre aux acheteurs et aux concurrents ce que la tromperie leur a coûté | Un acheteur trompé perd peu et seul, si bien que personne n'agit et la marque garde le profit. | Par victime à indemniser | A R | E
+8 | Permettre une action collective d'acheteurs trompés par une allégation sans démarche individuelle lourde | Chaque acheteur perd une somme trop faible pour engager seul une procédure. | A R | R
+8 | Évaluer le préjudice d'un acheteur ayant payé plus cher un produit présenté comme durable | Le surcoût payé pour la mention n'est pas mesuré ni reconnu par la justice. | A R | E
+8 | Indemniser un concurrent honnête qui a perdu des ventes face à une allégation mensongère | Prouver le lien entre l'allégation d'un rival et la perte de ventes est difficile. | A R | E
+7 | Rendre indépendante la certification d'un label de celui qui la paie | L'entreprise choisit et rémunère son certificateur, qui a donc intérêt à ne pas la perdre comme cliente. | Par lien d'intérêt à rompre | R A | O
+8 | Empêcher une entreprise de changer de certificateur dès qu'un audit lui est défavorable | Rien n'oblige le nouveau certificateur à connaître l'échec précédent. | R | R
+8 | Faire payer l'audit autrement que par l'entreprise auditée, sans surcoût insupportable pour les petits fabricants | Le système actuel fait de l'auditeur un fournisseur de l'entreprise qu'il juge. | A R | E
+8 | Contrôler la compétence et l'impartialité d'un organisme certificateur dans un pays où aucun organisme d'accréditation n'existe | Les labels recourent à des auditeurs locaux sans moyen de s'assurer qu'ils sont fiables. | R | O
+7 | Exposer les labels sans substance à une perte de crédibilité qui les fasse disparaître | Un label douteux garde sa place parce que ni les acheteurs ni les distributeurs ne savent qui est sérieux. | Par acteur qui peut retirer sa confiance | A R | E
+8 | Faire retirer d'un rayon ou d'un site de vente un label reconnu comme trompeur | Les distributeurs ne disposent d'aucune liste de référence pour décider ce qu'ils acceptent. | R | O
+8 | Diffuser une liste publique des labels jugés sans substance que l'acheteur peut consulter au moment d'acheter | Les évaluations des labels existent mais restent confidentielles ou dispersées. | R | C
+8 | Faire perdre à une marque les avantages commerciaux d'un label après un manquement avéré | Aujourd'hui un label retiré à une marque n'entraîne aucune perte pour elle ailleurs. | A R | E
