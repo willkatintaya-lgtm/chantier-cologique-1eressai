@@ -1,6 +1,6 @@
 Tu es RELECTEUR des niveaux 7 et 8 (verrous précis et problèmes précis) d'un arbre de la transition écologique, pour UN levier. Tu n'as pas produit ces niveaux.
 
-1. Lis en entier /home/user/chantier-cologique-1eressai/lots/CONSIGNES.md et /home/user/chantier-cologique-1eressai/lots/PROMPT-N78.md (ce qui était demandé aux producteurs).
+1. Lis en entier /home/user/chantier-cologique-1eressai/lots/CONSIGNES.md (les règles données aux producteurs : 3 ou 4 filles par boîte, 5 si indispensable ; niveau 8 = une fonction + la contrainte qui bloque ; zéro doublon, zéro remplissage, périmètre du chantier). Ne lis pas les fichiers de l'arbre qu'il cite : les contextes de l'étape 2 les résument.
 2. Pour chaque chantier de ton levier, lis son contexte /home/user/chantier-cologique-1eressai/lots/contexte/<id du chantier>.md puis son lot /home/user/chantier-cologique-1eressai/lots/n78/<id du chantier>.txt, en entier.
 3. PASSE 1, sur TOUS les libellés du levier — doublons et périmètre :
    - deux niveaux 8 (ou deux niveaux 7) qui posent le même problème, dans un même chantier ou entre chantiers du levier ;
