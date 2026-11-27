@@ -51,6 +51,12 @@ for c in sorted((x for x in b.values() if x["niveau"] == 5), key=lambda x: A.cle
             L.append(f"- {t} {b[t]['libelle']}" + (" : " + " ; ".join(f["libelle"] for f in enf.get(t, [])) if b[t]["niveau"] == 4 else ""))
     L += ["", "## Hors périmètre de tout l'arbre", "Se déplacer (véhicules, vélos, transport de colis), se nourrir (ce que l'on mange, gaspillage alimentaire), produire (énergie des usines, centrales, réseaux électriques, centres de données), préserver les écosystèmes (gestion des forêts, de l'eau, des milieux), séismes, ouvrages collectifs de protection, réseaux publics d'eau, conditions de travail.", ""]
     open(os.path.join(R, f"lots/contexte/{i}.md"), "w", encoding="utf8").write("\n".join(L))
+    # dossier complet en un seul fichier : mission + consignes + contexte
+    mission = open(os.path.join(R, "lots/PROMPT-N78-COURT.md"), encoding="utf8").read().replace("<ID>", i).replace("<N6>", str(len(v6)))
+    consignes = open(os.path.join(R, "lots/CONSIGNES.md"), encoding="utf8").read()
+    consignes = consignes.split("## Format de fichier, niveau 6")[0] + "## Format de fichier, niveaux 7 et 8" + consignes.split("## Format de fichier, niveaux 7 et 8")[1]
+    os.makedirs(os.path.join(R, "lots/dossier"), exist_ok=True)
+    open(os.path.join(R, f"lots/dossier/{i}.md"), "w", encoding="utf8").write(mission + "\n\n---\n\n" + consignes + "\n\n---\n\n" + "\n".join(L))
     liste.append({"id": i, "lib": c["libelle"], "n6": len(v6)})
 json.dump(liste, open(os.path.join(R, "lots/contexte/_liste.json"), "w", encoding="utf8"), ensure_ascii=False)
 print(len(liste), "contextes ;", sum(1 for x in liste if x["n6"] == 0), "chantiers sans niveau 6 ;", sum(x["n6"] for x in liste), "verrous de niveau 6")
