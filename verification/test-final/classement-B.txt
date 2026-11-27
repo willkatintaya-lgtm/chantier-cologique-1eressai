@@ -1,0 +1,60 @@
+1 | 1.1.3.2.2 | HÉSITATION | 1.2.3.1.1 | Le blocage est l'adoption de ventilateurs de plafond efficaces, freinée par leur fragilité face au câblage vétuste, ce qui touche aussi la robustesse du produit.
+2 | 1.1.6.5.1 | HÉSITATION | 1.1.3.1.2 | Le toit blanc relève du rafraîchissement, mais le blocage décrit est la peur d'expulsion, donc le statut des habitants, condition de tout investissement.
+3 | 1.1.2.2.5 | HÉSITATION | 1.1.5.1.3 | Le blocage est le partage des rôles entre propriétaire et locataire d'un commerce, l'objet technique étant les vitrines réfrigérées du froid commercial.
+4 | 1.1.2.2.2 | UNIQUE | - | Le passage aux pompes à chaleur bute sur la majorité et le quorum de l'assemblée des copropriétaires.
+5 | 1.1.1.4.1 | HÉSITATION | 1.1.1.2.3 | Le poêle à bois polluant sans cheminée est le système à remplacer, la solution envisagée étant un chauffe-eau solaire trop cher.
+6 | 1.1.5.4.2 | UNIQUE | - | Le montage juridique de l'autoconsommation collective bloque le partage de la production solaire entre copropriétaires.
+7 | 1.1.6.3.3 | HÉSITATION | 1.1.6.3.2 | Il s'agit de remettre à l'échelle des matériaux locaux traditionnels (bois, tuiles) face au prestige du béton et à la perte des savoir-faire.
+8 | 1.1.5.6.2 | UNIQUE | - | Repérage et élimination sans danger de l'amiante découvert pendant des travaux.
+9 | 1.1.1.1.3 | HÉSITATION | 1.1.5.4.4 | Sortie du chauffage domestique au charbon en Chine, bloquée par un réseau électrique trop faible et l'absence de gaz.
+10 | 1.1.5.5.6 | UNIQUE | - | Vidange et traitement des boues de latrines là où il n'y a pas de tout-à-l'égout.
+11 | 1.1.5.4.1 | HÉSITATION | 1.1.2.2.2 | L'installation solaire en toiture est bloquée par l'occupation du toit et l'opposition d'un copropriétaire, ce qui relève aussi de la décision collective.
+12 | 1.1.5.6.3 | UNIQUE | - | Émissions de formaldéhyde par des isolants bon marché, donc émissions des matériaux dans l'air intérieur.
+13 | 1.1.6.3.2 | HÉSITATION | 1.1.2.3.4 | Le manque de références de durabilité et d'assurance pour les isolants biosourcés freine leur emploi, ce que la banque traduit en valeur.
+14 | 1.1.6.2.1 | HÉSITATION | 1.1.6.2.2 | L'artificialisation de sols naturels par des constructions, faute de régulation, relève de bâtir sans consommer de sols, les mangroves et nappes étant hors périmètre.
+15 | 1.1.5.2.3 | HÉSITATION | 1.1.1.2.4 | Le passage de la cuisson au gaz à l'induction bute sur le coût du réseau de gaz pour ceux qui le quittent.
+16 | 1.1.6.4.2 | HÉSITATION | 1.1.6.4.1 | Le blocage est l'organisation du stockage et de la revente des éléments de seconde main, le marché de démolition relevant de la déconstruction sélective.
+17 | 1.1.6.2.1 | UNIQUE | - | Densifier une parcelle déjà bâtie (division de terrain), bloqué par le règlement d'urbanisme et l'acceptabilité.
+18 | 1.1.5.4.4 | UNIQUE | - | Remplacer les groupes électrogènes au diesel dans des logements mal desservis par le réseau.
+19 | 1.2.1.4.1 | UNIQUE | - | La commande publique au moins-disant empêche les luminaires durables de trouver un débouché.
+20 | 1.1.6.4.1 | HÉSITATION | 1.1.6.4.2 | Il s'agit de déposer les éléments avant démolition plutôt que de tout brûler ou jeter, en vue de leur réemploi.
+21 | 1.1.4.4.1 | HÉSITATION | 1.1.4.1.1 | L'application et le contrôle des règles de construction neuve face aux typhons sont le blocage, l'inondation par construction au ras du sol étant l'autre facette.
+22 | 1.1.2.3.1 | HÉSITATION | 1.1.5.1.2 | Une condition d'audit préalable rend la subvention inaccessible, pour remplacer réfrigérateurs et éclairage d'une école.
+23 | 1.1.5.1.2 | UNIQUE | - | Piloter l'éclairage des vitrines et enseignes et limiter la nuisance lumineuse nocturne.
+24 | 1.1.1.2.3 | HÉSITATION | 1.1.6.3.6 | Le chauffe-eau solaire, dont c'est le chantier de référence, n'est pas retenu dans la conception des maisons neuves.
+25 | 1.1.2.1.5 | HÉSITATION | 1.1.2.1.3 | Les règles patrimoniales du bâti ancien bloquent le remplacement des fenêtres.
+26 | 1.1.5.4.3 | UNIQUE | - | Exploitation et durabilité d'un stockage par batteries sur le bâtiment.
+27 | 1.1.6.3.4 | HÉSITATION | 1.1.6.5.4 | Les prescriptions imposent la brique cuite au lieu de blocs moins émetteurs, dans le logement social.
+28 | 1.1.1.2.3 | HÉSITATION | 1.1.5.3.4 | Il faudrait remplacer les chauffe-eau au gaz des restaurants, qui sont plutôt mal entretenus et rafistolés.
+29 | 1.2.5.3.3 | HÉSITATION | 1.2.1.3.4 | Les batteries au plomb sont recyclées de façon informelle et polluante, la contrebande de batteries de mauvaise qualité étant l'autre facette.
+30 | 1.1.5.5.3 | HÉSITATION | 1.1.5.5.4 | Il manque la récupération de l'eau de pluie, et la réutilisation des eaux grises, dans un immeuble où l'eau manque.
+31 | 1.2.5.1.3 | HÉSITATION | 1.2.5.1.2 | La filière de responsabilité élargie du producteur est mal contrôlée (certificats fictifs) face aux récupérateurs informels.
+32 | 1.2.3.3.2 | HÉSITATION | 1.2.3.3.3 | Le reconditionnement professionnel d'articles de sport manque d'approvisionnement, les vélos étant hors périmètre.
+33 | 1.2.2.1.5 | HÉSITATION | 1.2.1.3.4 | L'incorporation de plastique recyclé dans les jouets bute sur la concurrence d'importations à bas prix.
+34 | 1.2.5.3.3 | UNIQUE | - | Le recyclage informel des équipements électroniques par brûlage, faute d'usine agréée, est l'objet même de ce chantier.
+35 | 1.2.5.3.1 | HÉSITATION | 1.2.4.3.1 | Les plastiques et mousses d'emballage n'ont aucun débouché de recyclage, ce qui renvoie aussi à leur conception non recyclable.
+36 | 1.2.5.2.2 | HÉSITATION | 1.2.1.4.2 | Le tri en entreprise des outils et équipements usés échoue faute de reprise par les fournisseurs et de tri par le prestataire.
+37 | 1.2.3.3.1 | HÉSITATION | 1.2.1.3.4 | La revente d'appareils d'occasion entre particuliers n'est pas sûre et les places de marché refusent toute responsabilité.
+38 | 1.2.3.3.5 | UNIQUE | - | Les vêtements usagés exportés vers le Sud sont en grande partie invendables et déversés.
+39 | 1.2.2.4.1 | HÉSITATION | 1.2.1.1.2 | Le poids des applications sur les appareils anciens est le sujet, mais le blocage décrit est l'absence d'information à afficher.
+40 | 1.2.4.2.1 | HÉSITATION | 1.2.4.1.1 | Faute d'infrastructure de lavage garantissant l'hygiène, les flacons ne peuvent pas être réemployés pour la vente en vrac.
+41 | 1.2.1.4.1 | UNIQUE | - | Les règles d'achat public au moins-disant empêchent d'exiger des ordinateurs réparables.
+42 | 1.2.5.3.3 | UNIQUE | - | Le recyclage des disques durs bascule vers des ateliers informels qui brûlent les métaux.
+43 | 1.2.3.3.2 | HÉSITATION | 1.2.1.4.2 | Le reconditionnement de serveurs manque de garantie et de pièces face aux acheteurs qui exigent du neuf.
+44 | 1.2.5.4.3 | UNIQUE | - | Écouler l'amendement organique tiré des biodéchets, bloqué par les certificats à l'export.
+45 | 1.2.5.3.5 | HÉSITATION | 1.2.5.2.4 | Les articles de sport mêlant caoutchouc, mousse et plastique sont des produits composites que personne ne collecte ni ne valorise.
+46 | 1.2.5.2.1 | HÉSITATION | 1.2.4.3.1 | Le geste de tri des habitants échoue, les sachets multicouches non recyclables aggravant la situation.
+47 | 1.2.2.4.3 | UNIQUE | - | Il s'agit de concevoir une application sans fonctions d'IA superflues et de mesurer leur empreinte.
+48 | 1.2.4.4.2 | HÉSITATION | 1.2.4.3.3 | Le gobelet compostable était un faux substitut à la vaisselle jetable en restauration sur place, alors que le réutilisable est la solution.
+49 | 1.2.5.1.2 | HÉSITATION | 1.1.3.3.2 | Les ferrailleurs informels captent les appareils de froid en dégazant les fluides, ce qui touche aussi la récupération des frigorigènes.
+50 | 1.2.1.1.2 | HÉSITATION | 1.2.1.2.2 | L'acheteur ne trouve pas d'information sur la durée des mises à jour, et les promotions poussent au renouvellement.
+51 | 1.2.3.3.3 | HÉSITATION | 1.2.5.2.4 | Les téléphones dorment dans les tiroirs et les points d'apport ne les orientent pas vers le reconditionnement.
+52 | 1.2.3.3.5 | UNIQUE | - | Exportation de biens usagés vers le Honduras bloquée en douane (les vélos étant hors périmètre).
+53 | 1.2.1.2.1 | HÉSITATION | 1.2.2.2.2 | La pression des annonceurs empêche d'informer sur des matelas peu durables aux émissions chimiques.
+54 | 1.2.4.3.3 | HÉSITATION | 1.2.2.3.3 | Le remplacement du plastique par du carton n'est pas favorable au bilan (casse, retours, vide transporté).
+55 | 1.2.4.2.2 | UNIQUE | - | Le retour des emballages réemployables échoue faute de point de reprise proche.
+56 | 1.2.3.3.3 | HÉSITATION | 1.2.3.3.2 | Le don de puériculture d'occasion bute sur l'impossibilité de certifier la sécurité des sièges auto.
+57 | 1.2.3.2.5 | HÉSITATION | 1.2.3.2.6 | Le réparateur d'outils manque de pièces de rechange, ce que règle aussi l'accès commun aux pièces (les vélos étant hors périmètre).
+58 | 1.2.1.2.1 | HÉSITATION | 1.2.1.2.3 | Le financement publicitaire par les marques empêche une campagne qui rendrait l'occasion désirable.
+59 | 1.2.5.2.4 | HÉSITATION | 1.2.5.1.5 | La collecte des textiles en apport volontaire échoue (dépôts souillés au pied des conteneurs).
+60 | 1.2.4.2.3 | HÉSITATION | 1.2.4.2.1 | Le passage des laiteries aux bouteilles en verre consignées bute sur des étiquettes qui ne résistent pas au lavage.

@@ -1,0 +1,60 @@
+1 | 1.2.3.1.1 | HÉSITATION | 1.1.3.2.2 | Le blocage est la fragilité du moteur face au réseau instable, donc la robustesse du produit, plus que la diffusion des brasseurs d'air efficaces.
+2 | 1.1.6.5.1 | HÉSITATION | 1.1.3.1.2 | Les toits réfléchissants sont techniquement simples ; ce qui bloque est la peur d'expulsion, c'est-à-dire l'absence de statut reconnu des habitants.
+3 | 1.1.2.2.5 | HÉSITATION | 1.1.5.1.3 | Le froid commercial est l'objet, mais le blocage est le désaccord propriétaire-locataire d'un local tertiaire sur qui paie l'équipement.
+4 | 1.1.2.2.2 | UNIQUE | - | Majorité qualifiée et quorum introuvables : décision de travaux en copropriété.
+5 | 1.1.1.4.1 | HÉSITATION | 1.1.2.3.2 | Il s'agit de sortir d'un poêle à bois polluant, freiné surtout par le coût de l'équipement de remplacement.
+6 | 1.1.5.4.2 | UNIQUE | - | Montage juridique de l'autoconsommation collective bloqué.
+7 | 1.1.6.3.2 | HÉSITATION | 1.1.6.4.2 | Préférence pour le béton et disparition des charpentiers freinent le maintien de la construction en bois traditionnel, réemployé ou non.
+8 | 1.1.5.6.2 | UNIQUE | - | Repérage et élimination de l'amiante découvert en cours de travaux, freinés par le coût et l'éloignement de l'exutoire.
+9 | 1.1.1.1.3 | HÉSITATION | 1.1.5.4.4 | Sortie du chauffage domestique au charbon bloquée par un réseau électrique local trop faible.
+10 | 1.1.5.5.6 | UNIQUE | - | Vidange des boues de latrines sans tout-à-l'égout.
+11 | 1.1.5.4.1 | HÉSITATION | 1.1.2.2.2 | Pose de solaire en toiture bloquée par un conflit de copropriété sur l'usage du toit.
+12 | 1.1.5.6.3 | UNIQUE | - | Émissions de formaldéhyde d'un isolant, avec la question de la mesure de l'air et du retrait.
+13 | 1.1.6.3.2 | HÉSITATION | 1.1.2.3.4 | Manque de références de valeur, de durabilité et d'assurabilité propres aux matériaux biosourcés.
+14 | 1.1.6.2.1 | HÉSITATION | 1.1.6.2.2 | Constructions sur sols naturels (rizières, jardins) autorisées par complaisance ; les nappes et mangroves elles-mêmes sont hors périmètre.
+15 | 1.1.5.2.3 | HÉSITATION | 1.1.1.2.4 | Passage de la cuisson au gaz à l'induction bloqué par l'obligation de payer le réseau de gaz collectif.
+16 | 1.1.6.4.1 | HÉSITATION | 1.1.6.4.2 | Le marché de démolition prévoit tout en benne au lieu d'une dépose sélective, et la filière de stockage et revente manque.
+17 | 1.1.6.2.1 | UNIQUE | - | Densification par division parcellaire bloquée par le règlement d'urbanisme et l'opposition des voisins.
+18 | 1.1.5.4.4 | UNIQUE | - | Remplacer des groupes électrogènes diesel dans des logements mal desservis.
+19 | 1.2.1.4.1 | UNIQUE | - | Commande publique attribuée au moins-disant au détriment des produits durables.
+20 | 1.1.6.4.1 | HÉSITATION | 1.1.6.4.2 | Démolition qui détruit des éléments réemployables au lieu de les déposer ; le blocage de propriété rend le classement incertain.
+21 | 1.1.4.1.1 | HÉSITATION | 1.1.4.4.1 | Lotissements neufs au ras du sol en zone inondable et règles cycloniques non contrôlées faute d'inspecteurs.
+22 | 1.1.2.3.1 | HÉSITATION | 1.1.5.1.2 | Aide publique inaccessible à cause d'un audit préalable que l'école ne peut payer.
+23 | 1.1.5.1.2 | HÉSITATION | 1.1.2.2.5 | Éclairage nocturne des enseignes et vitrines à piloter, avec un partage des responsabilités bailleur-locataires tertiaires.
+24 | 1.1.1.2.3 | HÉSITATION | 1.1.6.3.6 | Chantier de référence des chauffe-eau solaires, ici dans le neuf où les promoteurs et clients préfèrent la surface de toit.
+25 | 1.1.2.1.5 | HÉSITATION | 1.1.2.1.3 | Remplacement des fenêtres freiné par des contraintes propres au bâti patrimonial.
+26 | 1.1.5.4.3 | UNIQUE | - | Exploitation et durée de vie d'un stockage par batteries sur place.
+27 | 1.1.6.3.4 | HÉSITATION | 1.1.6.5.4 | Prescriptions imposant la brique cuite et freins de la filière à adopter un matériau alternatif.
+28 | 1.1.1.2.3 | HÉSITATION | 1.1.2.2.5 | Chauffe-eau au gaz dangereux que les restaurants refusent de remplacer par une production d'eau chaude sans gaz.
+29 | 1.2.1.3.4 | HÉSITATION | 1.2.5.3.3 | Batteries de contrebande hors normes, puis recyclage informel polluant.
+30 | 1.1.5.5.3 | HÉSITATION | 1.1.5.5.4 | Absence de récupération d'eau de pluie et de réutilisation des eaux grises dans un immeuble neuf.
+31 | 1.2.5.1.3 | HÉSITATION | 1.2.5.1.2 | Filière de responsabilité élargie des producteurs mal contrôlée, avec des certificats fictifs face au circuit informel.
+32 | 1.2.3.3.2 | HÉSITATION | 1.2.3.3.3 | Reconditionnement professionnel privé d'approvisionnement ; les vélos sont hors périmètre, les skis non.
+33 | 1.2.2.1.5 | HÉSITATION | 1.2.1.3.4 | Incorporer du plastique recyclé dans des jouets, face à des importations bon marché et une étiquette muette.
+34 | 1.2.5.3.3 | UNIQUE | - | Recyclage des équipements électroniques sans brûlage, en intégrant les récupérateurs informels.
+35 | 1.2.5.3.1 | HÉSITATION | 1.2.4.3.1 | Les plastiques et mousses d'emballage n'ont aucun débouché de recyclage.
+36 | 1.2.5.2.2 | HÉSITATION | 1.2.5.2.4 | Collecte séparée des outils et équipements usagés d'une entreprise, sans reprise par les fournisseurs.
+37 | 1.2.3.3.1 | HÉSITATION | 1.2.1.3.4 | Sécurité de la revente d'occasion entre particuliers et responsabilité des plateformes.
+38 | 1.2.3.3.5 | UNIQUE | - | Exportations de vêtements d'occasion invendables vers le Sud.
+39 | 1.2.1.1.1 | HÉSITATION | 1.2.2.4.1 | Aucune donnée publiée sur la consommation des applications, condition pour informer les acheteurs.
+40 | 1.2.4.2.1 | HÉSITATION | 1.2.4.1.1 | Le réemploi de flacons bute sur la garantie de lavage et les normes d'hygiène.
+41 | 1.2.1.4.1 | UNIQUE | - | Règles de commande publique imposant le moins cher.
+42 | 1.2.5.3.3 | HÉSITATION | 1.2.5.1.2 | Recyclage frauduleux d'équipements informatiques confiés à des ateliers informels polluants.
+43 | 1.2.3.3.2 | HÉSITATION | 1.2.3.2.6 | Reconditionnement de serveurs freiné par l'exigence de garantie et le manque de pièces.
+44 | 1.2.5.4.3 | HÉSITATION | 1.2.5.3.6 | Écoulement d'un amendement issu de biodéchets, freiné par les certificats exigés à l'export.
+45 | 1.2.5.3.5 | HÉSITATION | 1.2.5.2.4 | Équipements de sport composites sans filière de collecte ni de recyclage.
+46 | 1.2.5.2.1 | HÉSITATION | 1.2.4.3.1 | Le geste de tri n'est pas obtenu et les sachets multicouches ne sont pas recyclables.
+47 | 1.2.2.4.3 | UNIQUE | - | Fonctions d'intelligence artificielle superflues et empreinte à mesurer.
+48 | 1.2.4.4.2 | HÉSITATION | 1.2.5.4.3 | Une vaisselle jetable compostable remplacée par une autre, refusée au compost ; la voie visée est le réutilisable.
+49 | 1.2.5.3.3 | HÉSITATION | 1.1.3.3.2 | Appareils de froid démantelés par des ferrailleurs informels qui relâchent les fluides frigorigènes.
+50 | 1.2.1.1.2 | HÉSITATION | 1.2.1.2.2 | Aucune information sur la durée des mises à jour au moment de l'achat, sur fond de promotions qui poussent à remplacer.
+51 | 1.2.3.3.3 | HÉSITATION | 1.2.5.2.4 | Téléphones dormants dans les tiroirs et points de reprise mal organisés.
+52 | 1.2.3.3.5 | UNIQUE | - | Exportation de biens d'occasion bloquée par la douane du pays destinataire ; les vélos sont hors périmètre.
+53 | 1.2.1.2.1 | HÉSITATION | 1.2.2.2.2 | Le poids des annonceurs empêche d'informer sur des produits de mauvaise qualité et émissifs.
+54 | 1.2.4.3.3 | HÉSITATION | 1.2.2.3.3 | Remplacer le plastique de calage par du carton, avec un bilan défavorable (casse, retours, vide).
+55 | 1.2.4.2.2 | UNIQUE | - | Le retour des emballages réutilisables par le client bute sur la distance des points de reprise.
+56 | 1.2.3.3.3 | HÉSITATION | 1.2.3.3.2 | Don d'articles de puériculture d'occasion bloqué par l'impossibilité de certifier leur sécurité.
+57 | 1.2.3.2.6 | HÉSITATION | 1.2.3.2.5 | Accès aux pièces de rechange pour la réparation des outils ; les vélos sont hors périmètre.
+58 | 1.2.1.2.3 | HÉSITATION | 1.2.1.2.1 | Les marques qui financent la publicité bloquent une campagne valorisant l'occasion et la sobriété.
+59 | 1.2.5.2.4 | HÉSITATION | 1.2.5.1.5 | Textiles abandonnés ou souillés au pied des conteneurs d'apport volontaire.
+60 | 1.2.4.2.3 | HÉSITATION | 1.2.4.2.1 | Adoption de bouteilles consignées par des laiteries bloquée par un étiquetage qui ne résiste pas au lavage.
