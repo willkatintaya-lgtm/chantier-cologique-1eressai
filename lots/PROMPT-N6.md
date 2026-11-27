@@ -5,6 +5,7 @@ Tu produis le NIVEAU 6 (verrous majeurs) d'un arbre de la transition écologique
 3. Pour CHAQUE chantier de niveau 5 de ton levier, écris ses verrous majeurs de niveau 6 : 3 à 5 par chantier, le plus souvent 3 ou 4. Pour chacun : libellé (action à l'infinitif qui lève le verrou, comme « Rendre la chaleur électrique compétitive face au gaz »), définition (une phrase : pourquoi ça bloque aujourd'hui, pour qui, où), défis, nature dominante (T, E, R, O ou C). Écris aussi le critère de partage du chantier.
    - Demande-toi : « pourquoi ce chantier n'est-il pas déjà réalisé partout ? » Les réponses de premier rang sont tes verrous.
    - Chaque verrou doit être assez large pour contenir ensuite 3 à 5 verrous précis, chacun de 3 à 5 problèmes concrets (donc 10 à 20 problèmes distincts) ; assez étroit pour ne pas recouvrir ses sœurs.
+   - Un verrou de niveau 6 est une famille de difficultés, pas un problème unique : s'il ressemble déjà à un cahier des charges précis (un objet, une situation, un délai), il est trop fin ; élargis-le. Libellé de 6 à 14 mots.
    - Applique la règle des verrous transverses : pas de « financer », « former les artisans », « informer le consommateur » génériques ; seulement ce qui est propre à ce chantier.
    - Ne fais pas un verrou par nature mécaniquement : pars du réel, puis vérifie que plusieurs natures sont représentées.
    - Deux chantiers de ton levier ne doivent pas avoir de verrous qui disent la même chose.
