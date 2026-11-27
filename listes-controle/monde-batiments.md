@@ -1,0 +1,142 @@
+# Monde — bâtiments — liste de contrôle
+- MB-001 | Cadre Sobriété-Efficacité-Renouvelables (SER) pour les bâtiments | GIEC AR6 WG3 ch.9 | Structure les options en trois familles : réduire la demande de service/surface, améliorer l'efficacité, décarboner l'énergie. | atténuation, ressources |
+- MB-002 | Rénovation énergétique profonde du parc existant | AIE NZE ; GIEC ch.9 ; Drawdown | Levier central dans les pays à parc ancien ; le taux et la profondeur de rénovation sont les deux variables clés. | atténuation, pollutions-santé |
+- MB-003 | Bâtiments neufs zéro-carbone-ready dès 2030 | AIE Net Zero by 2050 | Jalon NZE : tous les bâtiments neufs « zero-carbon-ready » à partir de 2030. | atténuation |
+- MB-004 | Part du parc existant rénové zéro-carbone-ready en 2050 | AIE Net Zero by 2050 | Jalon NZE : environ 85 % du parc zero-carbon-ready en 2050 (de mémoire). | atténuation |
+- MB-005 | Isolation de l'enveloppe (murs, toiture, planchers) | AIE ; Drawdown | Réduit les besoins de chauffage et de climatisation ; priorité avant le remplacement des équipements. | atténuation, pollutions-santé |
+- MB-006 | Fenêtres performantes et vitrages à faible émissivité | Drawdown ; AIE | Réduit pertes hivernales et apports solaires estivaux. | atténuation |
+- MB-007 | Étanchéité à l'air et ventilation maîtrisée (double flux) | AIE ; EPBD | Évite les pertes, impose une ventilation pour la qualité de l'air intérieur. | atténuation, pollutions-santé |
+- MB-008 | Pompes à chaleur air/eau et géothermiques | AIE Future of Heat Pumps ; Drawdown | Technologie pivot de la décarbonation du chauffage ; rendement 3 à 4 fois celui d'une résistance. | atténuation |
+- MB-009 | Remplacement progressif des chaudières fossiles (fioul, charbon, gaz) | AIE NZE ; EPBD 2024 | NZE : arrêt des ventes de nouvelles chaudières fossiles à partir de 2025 ; EPBD : fin des aides aux chaudières autonomes fossiles dès 2025. | atténuation, pollutions-santé |
+- MB-010 | Réseaux de chaleur et de froid de nouvelle génération (basse température) | AIE ; Drawdown ; PNUE District Energy in Cities | Mutualise ressources renouvelables, géothermie, récupération de chaleur fatale. | atténuation, ressources |
+- MB-011 | Chauffe-eau solaires thermiques | Drawdown ; AIE | Solution mature, très répandue en Chine, Inde, Afrique du Nord, Méditerranée. | atténuation |
+- MB-012 | Chauffe-eau thermodynamiques et ballons pilotables | AIE ; Drawdown | Eau chaude sanitaire électrifiée et stockage de flexibilité. | atténuation |
+- MB-013 | Solaire photovoltaïque en toiture et autoconsommation | AIE ; EPBD 2024 ; Drawdown | EPBD impose le solaire sur les bâtiments neufs et rénovés selon un calendrier échelonné. | atténuation |
+- MB-014 | Mini-réseaux et systèmes solaires domestiques (hors réseau) | AIE ; Banque mondiale Mission 300 ; SE4All | Réponse à l'accès à l'électricité pour les ménages sans réseau, notamment en Afrique subsaharienne. | atténuation, pollutions-santé |
+- MB-015 | Accès universel à l'électricité (ODD 7.1) | AIE WEO ; ONU | Environ 700 à 750 millions de personnes sans électricité (ordre de grandeur de mémoire), majoritairement en Afrique subsaharienne. | pollutions-santé, adaptation |
+- MB-016 | Stockage domestique par batterie | AIE ; Drawdown | Complète le PV en toiture, résilience aux coupures. | atténuation, adaptation |
+- MB-017 | Bâtiments flexibles et pilotage de la demande (smart buildings) | AIE (Energy Efficiency ; Smart grids) ; Drawdown | Décale les usages pour absorber les renouvelables variables et réduire la pointe. | atténuation |
+- MB-018 | Automatisation et gestion technique du bâtiment (GTB/BACS) | Drawdown ; EPBD 2024 | EPBD renforce les exigences d'automatisation pour le tertiaire. | atténuation |
+- MB-019 | Compteurs intelligents et rétro-information des occupants | AIE ; Drawdown | Économies par visibilité des consommations ; effet comportemental variable. | atténuation |
+- MB-020 | Recharge des véhicules électriques intégrée aux bâtiments | EPBD 2024 ; AIE | EPBD impose pré-câblage et points de recharge dans les bâtiments neufs et rénovés. | atténuation |
+- MB-021 | Éclairage LED résidentiel et tertiaire | Drawdown ; AIE | Solution très rentable ; forte part des économies restantes dans les pays à faibles revenus. | atténuation |
+- MB-022 | Éclairage public et pilotage LED | Drawdown ; AIE | Adjacent au bâti ; réduit consommation et facture communale. | atténuation, biodiversité |
+- MB-023 | Réduction de la pollution lumineuse des bâtiments | Convention sur la diversité biologique ; recherche | Éclairage extérieur et façades vitrées perturbent insectes, oiseaux migrateurs. | biodiversité |
+- MB-024 | Normes d'efficacité minimale des appareils (MEPS) et étiquetage | AIE (4E, Energy Efficiency) ; CLASP ; Drawdown | Levier majeur de réduction de la demande électrique des appareils. | atténuation, ressources |
+- MB-025 | Réfrigérateurs et congélateurs efficaces | Drawdown ; AIE ; Kigali | Fort gisement ; couplé au choix de réfrigérant. | atténuation |
+- MB-026 | Machines à laver, lave-vaisselle et électroménager efficaces | Drawdown ; AIE | Réduisent énergie et eau. | atténuation, ressources |
+- MB-027 | Réduction des veilles (standby) et consommation des équipements électroniques | AIE 4E | Limite la consommation cachée. | atténuation |
+- MB-028 | Climatiseurs à haute efficacité (MEPS strictes) | AIE Future of Cooling ; Cool Coalition | Le stock mondial de climatiseurs devrait plus que tripler d'ici 2050 (environ 5,6 milliards d'unités selon l'AIE, de mémoire) ; l'efficacité est le levier principal. | atténuation, adaptation |
+- MB-029 | Refroidissement passif et conception bioclimatique | GIEC ch.9 ; Cool Coalition ; ONU-Habitat | Orientation, ombrage, inertie, ventilation naturelle : limite le besoin d'équipements actifs. | atténuation, adaptation |
+- MB-030 | Toits froids (cool roofs) et revêtements réfléchissants | Drawdown ; Cool Coalition ; GIEC WG2 | Baisse la température intérieure et l'îlot de chaleur urbain, utile en habitat précaire à toit de tôle. | adaptation, atténuation |
+- MB-031 | Toits et façades végétalisés | Drawdown ; GIEC WG2 | Rafraîchissement, rétention d'eau de pluie, habitat pour la biodiversité. | adaptation, biodiversité |
+- MB-032 | Protections solaires extérieures (brise-soleil, volets, ombrières) | GIEC ch.9 ; AIE Future of Cooling | Réduit les apports solaires, souvent moins coûteux que la climatisation. | adaptation, atténuation |
+- MB-033 | Ventilateurs de plafond et refroidissement évaporatif | AIE Future of Cooling | Alternative à faible consommation à la climatisation compressive en climats chauds. | adaptation, atténuation |
+- MB-034 | Froid de quartier (district cooling) | AIE ; PNUE District Energy | Pertinent en zones denses, climat chaud, avec eau de mer ou profonde, stockage. | atténuation |
+- MB-035 | Accès au froid pour tous (Sustainable Cooling for All) | Cool Coalition ; SEforALL | Plusieurs centaines de millions de personnes à risque faute d'accès au froid (rapport SEforALL 2021, chiffre non vérifié ici). | adaptation, pollutions-santé |
+- MB-036 | Plans d'action nationaux de refroidissement (NCAP) | Cool Coalition ; PNUE ; Inde ICAP | L'Inde a publié un plan de refroidissement en 2019 ; outil de planification transversale. | atténuation, adaptation |
+- MB-037 | Réduction progressive des HFC (Amendement de Kigali) | Protocole de Montréal ; PNUE | Réfrigérants à fort PRG remplacés ; gain d'atténuation important, additionnel à l'efficacité. | atténuation |
+- MB-038 | Gestion et destruction en fin de vie des réfrigérants | Drawdown (Refrigerant Management) | Selon Drawdown l'un des leviers les plus puissants, car le stock de réfrigérants fuit ou est mal détruit. | atténuation |
+- MB-039 | Réfrigérants naturels (propane, CO2, ammoniac) et sécurité | Kigali ; PNUE OzonAction | Alternatives à bas PRG ; attention aux normes d'inflammabilité et à la formation. | atténuation, pollutions-santé |
+- MB-040 | Chaîne du froid alimentaire et bâtiments logistiques efficaces | Cool Coalition ; FAO | Réduit pertes alimentaires ; frontière avec le thème alimentation. | ressources, atténuation |
+- MB-041 | Cuisson propre : accès universel (ODD 7.1) | AIE Clean Cooking Vision ; OMS | Environ 2,3 milliards de personnes cuisent avec des combustibles polluants (ordre de grandeur AIE, de mémoire). | pollutions-santé, atténuation, biodiversité |
+- MB-042 | Cuisinières améliorées à biomasse | Drawdown (Clean Cooking) ; GACC | Étape intermédiaire ; le gain santé ne suffit pas toujours aux seuils OMS. | pollutions-santé, biodiversité |
+- MB-043 | GPL, biogaz, éthanol, électricité de cuisson (cuiseurs à induction, à basse consommation) | AIE Clean Cooking ; MECS | Combustibles propres ; cuisson électrique efficace en développement avec réseaux fiables. | pollutions-santé, atténuation |
+- MB-044 | Cuiseurs solaires et paniers isolants | Drawdown ; GACC | Adaptés aux zones très ensoleillées. | pollutions-santé, biodiversité |
+- MB-045 | Réduction de la déforestation due au bois de feu et au charbon de bois | AIE ; FAO | Pression de la collecte de bois ; gain de temps pour les femmes et les enfants. | biodiversité, atténuation |
+- MB-046 | Pollution de l'air intérieur : ventilation et sources de combustion | OMS (Air quality guidelines, Household energy) ; AIE | La pollution de l'air des ménages cause plusieurs millions de décès prématurés par an (environ 3,2 millions selon OMS, de mémoire). | pollutions-santé |
+- MB-047 | Directives OMS sur les combustibles et appareils domestiques (2014) | OMS | Recommandent des émissions de PM2,5 et de CO très bas, excluant en pratique le charbon et le kérosène. | pollutions-santé |
+- MB-048 | Contrôle de l'humidité, des moisissures et des allergènes | OMS Housing and health guidelines 2018 | Humidité et moisissures liées à l'asthme et aux maladies respiratoires. | pollutions-santé |
+- MB-049 | Radon : cartographie et prévention dans les bâtiments | OMS ; UE directive 2013/59 | Deuxième cause de cancer du poumon ; mesures de ventilation du sol. | pollutions-santé |
+- MB-050 | Gestion de l'amiante : repérage, désamiantage, interdiction | OMS ; OIT | Encore autorisé dans plusieurs pays ; déchets de rénovation à traiter en filière. | pollutions-santé |
+- MB-051 | Peintures, canalisations et sols au plomb | OMS ; UNEP | Exposition infantile via peintures anciennes ; programme de la Global Alliance to Eliminate Lead Paint. | pollutions-santé |
+- MB-052 | Composés organiques volatils et matériaux à faibles émissions | OMS ; labels (Greenguard, A+) | Limiter formaldéhyde et COV des panneaux, colles, peintures. | pollutions-santé |
+- MB-053 | Surpeuplement, bruit et lumière naturelle (logement sain) | OMS Housing and health 2018 | Lignes directrices : température intérieure minimale, surpeuplement, sécurité, accessibilité. | pollutions-santé |
+- MB-054 | Précarité énergétique et sécurité du chauffage / climatisation | EPBD 2024 ; OMS ; Observatoire européen | Lien entre froid et surmortalité hivernale ; aides ciblées. | pollutions-santé, atténuation |
+- MB-055 | Adaptation du bâti aux vagues de chaleur | GIEC WG2 ; Cool Coalition | Surmortalité et inconfort thermique, surtout pour les logements mal conçus et les personnes âgées. | adaptation, pollutions-santé |
+- MB-056 | Plans de gestion de la chaleur et refuges frais | GIEC WG2 ; OMS | Complètent la rénovation individuelle par des mesures collectives. | adaptation |
+- MB-057 | Adaptation aux inondations (surélévation, matériaux résistants, bâti amphibie) | GIEC WG2 ; ONU-Habitat | Réduit les dégâts dans les deltas et les zones urbaines basses. | adaptation |
+- MB-058 | Résistance aux cyclones et vents violents (toitures, fixations) | GIEC WG2 ; Banque mondiale | Mesures de renforcement peu coûteuses sur l'habitat informel. | adaptation |
+- MB-059 | Résistance parasismique | Banque mondiale ; GFDRR | Protection de la vie humaine ; renforcement de maçonneries non armées. | adaptation |
+- MB-060 | Résistance aux incendies de forêt (zone tampon, matériaux) | GIEC WG2 | Pertinent en Méditerranée, Australie, Californie. | adaptation |
+- MB-061 | Risques côtiers : élévation du niveau de la mer et relocalisation planifiée | GIEC WG2 | Retrait organisé ou protection pour les établissements côtiers exposés. | adaptation |
+- MB-062 | Retrait-gonflement des argiles et tassement des sols | GIEC WG2 ; BRGM (exemple France) | Sécheresses répétées fragilisent les fondations. | adaptation |
+- MB-063 | Résilience aux coupures d'énergie (confort passif, secours solaire) | AIE ; GIEC WG2 | Un bâtiment passif reste habitable plus longtemps lors d'une panne. | adaptation |
+- MB-064 | Réduction du risque de catastrophe dans l'habitat informel | ONU-Habitat ; UNDRR | Amélioration in situ, drainage, accès, plutôt que démolition. | adaptation |
+- MB-065 | Gestion des îlots de chaleur urbains par le bâti et les espaces verts | GIEC ch.8 ; WG2 | Matériaux clairs, arbres, eau en ville. | adaptation, biodiversité |
+- MB-066 | Carbone incorporé des matériaux de construction | GIEC ch.9 ; GlobalABC ; WorldGBC | Part croissante des émissions des bâtiments neufs à mesure que l'exploitation se décarbone. | atténuation, ressources |
+- MB-067 | Approche cycle de vie complet (whole life carbon) | WorldGBC Net Zero Carbon Buildings ; EPBD 2024 | EPBD introduit le potentiel de réchauffement planétaire sur le cycle de vie pour les bâtiments neufs (échelonné). | atténuation |
+- MB-068 | Plafonds de carbone incorporé dans les réglementations | Pays nordiques, France RE2020, Pays-Bas | Exigences chiffrées déjà en vigueur dans quelques pays. | atténuation |
+- MB-069 | Déclarations environnementales de produits (EPD) et bases de données | ISO 14025 ; EN 15804 | Transparence indispensable pour comparer les matériaux. | atténuation, ressources |
+- MB-070 | Ciment et béton bas carbone côté demande (optimisation structurelle, clinker réduit) | AIE ; GlobalABC ; GIEC ch.11 | Moins de clinker, béton dimensionné au juste besoin. | atténuation, ressources |
+- MB-071 | Acier bas carbone et recyclé dans la construction | AIE ; GlobalABC | Dépend de la filière électrique et de l'hydrogène ; marchés pilotes. | atténuation |
+- MB-072 | Bois d'œuvre et construction bois (CLT, ossature) issus de gestion durable | GIEC ch.9 ; Drawdown (Bamboo, Timber) | Stockage de carbone ; dépend de forêts gérées durablement. | atténuation, biodiversité |
+- MB-073 | Matériaux biosourcés (paille, chanvre, liège, bambou) | GIEC ch.9 ; GlobalABC | Faible énergie grise, parfois stockage de carbone ; filières locales. | atténuation, ressources |
+- MB-074 | Terre crue (adobe, pisé, BTC) | UNESCO ; GIEC ch.9 ; CRAterre | Savoir-faire traditionnel, faible énergie grise, confort thermique ; exige des normes adaptées. | atténuation, ressources |
+- MB-075 | Pierre, briques stabilisées et matériaux locaux | GlobalABC Africa Roadmap | Réduit transports et énergie grise ; qualité à contrôler. | atténuation, ressources |
+- MB-076 | Briques de cuisson efficaces (fours à briques) | CCAC ; Drawdown | Secteur très émetteur de polluants en Asie du Sud et Afrique ; modernisation des fours. | pollutions-santé, atténuation |
+- MB-077 | Béton recyclé, granulats de déconstruction | GlobalABC ; UE | Réduit extraction de sable et gravier. | ressources, biodiversité |
+- MB-078 | Pénurie de sable et extraction durable | PNUE (Sand and sustainability, 2019, 2022) | Le sable est la ressource solide la plus consommée après l'eau ; dragages détruisent les écosystèmes. | ressources, biodiversité |
+- MB-079 | Isolants à faible impact (fibres, ouate, mousses alternatives) | GlobalABC ; recherche | Éviter les isolants à fort PRG (agents d'expansion) ; sourcing responsable. | atténuation, pollutions-santé |
+- MB-080 | Réemploi des éléments de construction | Ellen MacArthur ; WorldGBC | Réduit carbone et déchets ; frein : assurance, traçabilité. | ressources, atténuation |
+- MB-081 | Conception pour le démontage et passeports matériaux | UE ; Ellen MacArthur | Facilite réemploi et recyclage futurs. | ressources |
+- MB-082 | Déchets de construction et démolition : tri et valorisation | UE ; PNUE | Premier flux de déchets en volume dans l'UE (de mémoire). | ressources, pollutions-santé |
+- MB-083 | Prioriser la rénovation et la réutilisation plutôt que démolition-reconstruction | GIEC ch.9 ; WorldGBC | Évite l'énergie grise déjà incorporée. | atténuation, ressources |
+- MB-084 | Durée de vie et durabilité des bâtiments (qualité de construction) | GlobalABC | Des bâtiments durables amortissent mieux leur carbone incorporé. | ressources, atténuation |
+- MB-085 | Sobriété : limiter la surface par personne | GIEC ch.9 ; AIE | Option de sobriété centrale pour les pays à forte surface par habitant. | atténuation, ressources |
+- MB-086 | Partage et mutualisation des surfaces (logement intergénérationnel, habitat partagé) | GIEC ch.5 et 9 | Réduit la sous-occupation ; lutte contre l'isolement. | atténuation, ressources |
+- MB-087 | Réaffectation et transformation de bureaux vacants en logements | OCDE ; ONU-Habitat | Utilise le bâti existant, limite l'artificialisation. | ressources, atténuation |
+- MB-088 | Taille et usage du tertiaire (télétravail, bureaux partagés) | AIE ; GIEC ch.9 | Effet net incertain, dépend de la réorganisation de l'espace. | atténuation |
+- MB-089 | Densification et lutte contre l'étalement urbain | GIEC ch.8 ; ONU-Habitat | Ville compacte réduit énergie et émissions de transport et préserve les sols. | atténuation, biodiversité |
+- MB-090 | Zéro artificialisation nette et sols | UE ; pays divers | Objectif de limitation de l'imperméabilisation. | biodiversité, adaptation |
+- MB-091 | Ville des courtes distances et mixité fonctionnelle | ONU-Habitat ; GIEC ch.8 | Le logement est lié à l'accessibilité des services et de l'emploi. | atténuation |
+- MB-092 | Logement abordable et accès sécurisé au foncier | ONU-Habitat ; ODD 11.1 | Environ 1,1 milliard de personnes en bidonvilles ou habitat informel (ordre de grandeur ONU-Habitat, de mémoire). | adaptation, pollutions-santé |
+- MB-093 | Amélioration in situ des quartiers informels (eau, assainissement, énergie, voirie) | ONU-Habitat ; Banque mondiale | Approche préférée à l'éviction forcée. | adaptation, pollutions-santé |
+- MB-094 | Sécurité d'occupation et lutte contre les expulsions | ONU-Habitat | Condition de l'investissement des ménages dans leur logement. | adaptation |
+- MB-095 | Auto-construction assistée (formation, kits, assistance technique) | ONU-Habitat ; Habitat for Humanity | La majorité des logements en Afrique et Asie du Sud sont auto-construits (de mémoire). | adaptation, ressources |
+- MB-096 | Codes de construction adaptés aux pays du Sud et applicables à l'informel | GlobalABC Roadmaps ; ONU-Habitat | Codes existants souvent inadaptés ou non appliqués ; version simplifiée utile. | adaptation, atténuation |
+- MB-097 | Codes énergétiques du bâtiment obligatoires dans tous les pays | GlobalABC ; AIE | Un nombre limité de pays disposent de codes obligatoires pour tous les types de bâtiments (état GSR, de mémoire). | atténuation |
+- MB-098 | Certification EDGE (IFC) pour bâtiments verts dans les marchés émergents | IFC / Banque mondiale | Seuil d'économie d'au moins 20 % d'énergie, d'eau et de matériaux incorporés. | atténuation, ressources |
+- MB-099 | Labels de bâtiment durable (LEED, BREEAM, HQE, Green Star, Passivhaus) | WorldGBC ; organismes | Outils volontaires qui tirent le marché ; couverture hétérogène. | atténuation, ressources |
+- MB-100 | Obligations de performance minimale (MEPS) pour bâtiments existants | EPBD 2024 | Exigence de sortie progressive des pires classes énergétiques (par ex. 16 % des moins performants du tertiaire d'ici 2030, de mémoire). | atténuation |
+- MB-101 | Zéro-emission buildings (ZEB) dans l'EPBD 2024 | EPBD 2024 | Neufs zéro-émission : 2028 pour les publics, 2030 pour tous (de mémoire). | atténuation |
+- MB-102 | Passeports de rénovation et certificats de performance énergétique | EPBD 2024 | Plan de rénovation par étapes et classement harmonisé. | atténuation |
+- MB-103 | Guichets uniques de rénovation (one-stop shops) | EPBD 2024 ; Commission UE | Simplifient accompagnement technique et financier. | atténuation |
+- MB-104 | Financements de la rénovation : prêts verts, tiers financement, on-bill | AIE ; UE ; PNUE FI | Lever la barrière du coût initial. | atténuation |
+- MB-105 | Aides ciblées pour les ménages modestes (incitations différenciées) | UE ; AIE | Évite le biais d'aubaine ; réduit la précarité énergétique. | atténuation, pollutions-santé |
+- MB-106 | Dilemme locataire-propriétaire (split incentives) | AIE ; UE | Frein structurel à la rénovation locative ; réponses réglementaires. | atténuation |
+- MB-107 | Financement climatique pour le logement bas carbone dans le Sud | CCNUCC ; GlobalABC ; banques de développement | Capacité d'investissement limitée ; besoin d'instruments dédiés. | atténuation, adaptation |
+- MB-108 | Formation des métiers du bâtiment et main-d'œuvre qualifiée | AIE ; GlobalABC ; OIT | Goulot d'étranglement mondial de la rénovation et de la construction durable. | atténuation, adaptation |
+- MB-109 | Industrialisation, préfabrication et construction hors site | GIEC ch.9 ; WorldGBC | Réduit déchets et délais ; qualité maîtrisée. | ressources, atténuation |
+- MB-110 | Modélisation de l'information du bâtiment (BIM) et jumeaux numériques | GlobalABC ; AIE | Optimise conception, exploitation, gestion du cycle de vie. | ressources, atténuation |
+- MB-111 | Économie d'eau dans les bâtiments (robinetterie, chasses, appareils) | ONU-Eau ; EDGE | Réduit la demande en eau potable et l'énergie associée. | ressources |
+- MB-112 | Récupération des eaux de pluie et réutilisation des eaux grises | ONU-Habitat ; ONU-Eau | Utile en climat aride et en ville sans réseau fiable. | ressources, adaptation |
+- MB-113 | Gestion des eaux pluviales à la parcelle (noues, sols perméables) | GIEC WG2 ; ONU-Habitat | Réduit le ruissellement et le risque d'inondation. | adaptation, biodiversité |
+- MB-114 | Accès à l'eau et à l'assainissement dans les logements | OMS/UNICEF JMP ; ODD 6 | Condition d'un logement sain ; part notable de la population mondiale sans services sûrs. | pollutions-santé |
+- MB-115 | Biodiversité dans et autour du bâti (nichoirs, murs végétaux, trames) | CDB ; GIEC WG2 | Réintroduit nature en ville ; réduit les collisions avec le bâti. | biodiversité |
+- MB-116 | Sécurisation des vitrages contre les collisions d'oiseaux | recherche ornithologique ; normes locales | Une cause importante de mortalité aviaire en milieu urbain. | biodiversité |
+- MB-117 | Évitement des espèces et habitats sensibles à l'implantation | CDB ; IFC Performance Standards | Séquence éviter-réduire-compenser dans l'aménagement du bâti. | biodiversité |
+- MB-118 | Approvisionnement responsable en bois, sable et pierre | FSC ; PNUE | Évite de déplacer l'impact vers les écosystèmes d'extraction. | biodiversité, ressources |
+- MB-119 | Reconstruire mieux après catastrophe (Build Back Better) | UNDRR Sendai ; Banque mondiale GFDRR | Reconstruction avec exigences de résistance et de sobriété énergétique. | adaptation, ressources |
+- MB-120 | Abris et logements temporaires bas carbone pour réfugiés et déplacés | HCR ; ONU-Habitat | Combine accès à l'énergie propre et abris durables. | adaptation, pollutions-santé |
+- MB-121 | Préparation et assurance du bâti face aux aléas climatiques | GIEC WG2 ; assureurs | Prix du risque comme signal ; risque d'inassurabilité. | adaptation |
+- MB-122 | Vérification de la qualité sur chantier (performance réelle vs théorique) | AIE ; recherche | L'écart de performance réduit les gains attendus. | atténuation, pollutions-santé |
+- MB-123 | Mesure du carbone opérationnel réel et déclaration des consommations | GlobalABC ; EPBD | Conditionne le pilotage et les politiques par objectifs. | atténuation |
+- MB-124 | Effet rebond et besoin de sobriété complémentaire | GIEC ch.9 ; AIE | Gains d'efficacité en partie annulés par la hausse de la demande de confort et de surface. | atténuation |
+- MB-125 | Bâtiments publics exemplaires (écoles, hôpitaux) | EPBD ; AIE ; OMS | Accélère le marché ; santé et apprentissage. | atténuation, pollutions-santé |
+- MB-126 | Hôpitaux et centres de santé : énergie fiable et refroidissement | OMS ; SEforALL | Beaucoup de centres de santé du Sud manquent d'électricité fiable. | pollutions-santé, adaptation |
+- MB-127 | Écoles : ventilation, confort thermique et air intérieur | OMS ; AIE | Le CO2 et la chaleur affectent apprentissage et santé. | pollutions-santé, adaptation |
+- MB-128 | Alliance mondiale Buildings Breakthrough | GlobalABC ; PNUE ; COP28 | Objectif de bâtiments quasi zéro émission et résilients comme norme d'ici 2030 (de mémoire). | atténuation |
+- MB-129 | Feuilles de route régionales (Afrique, Asie, Amérique latine) | GlobalABC / PNUE | Priorités différenciées : urbanisation rapide, cuisson, matériaux, climat chaud. | atténuation, adaptation |
+- MB-130 | Urbanisation rapide : une grande part du bâti de 2050 reste à construire dans le Sud | GlobalABC ; AIE | Opportunité d'éviter le verrouillage en intervenant dès la conception. | atténuation, adaptation |
+- MB-131 | Verrouillage carbone des bâtiments à longue durée de vie | GIEC ch.9 | Les décisions actuelles engagent plusieurs décennies d'émissions. | atténuation |
+- MB-132 | Efficacité des bâtiments tertiaires (bureaux, commerces) et grandes surfaces | AIE ; Drawdown | Pilotage, CVC, éclairage, enveloppe. | atténuation |
+- MB-133 | Centres de données et leurs rejets de chaleur | AIE (suivi séparé) | Valorisation de la chaleur fatale dans les réseaux ; périmètre limite avec les bâtiments. | atténuation |
+- MB-134 | Cuisines professionnelles et restauration collective efficaces | Drawdown ; AIE | Gisement dans le tertiaire ; passage à l'induction. | atténuation |
+- MB-135 | Ascenseurs, ventilateurs, moteurs et pompes efficaces | AIE ; Drawdown | Équipements auxiliaires à rendement amélioré. | atténuation |
+
+## Notes de fiabilité
+- Aucune recherche web n'a été effectuée : la liste est écrite de mémoire, à partir de la connaissance des rapports cités (AIE NZE et suivis, GIEC AR6 WG3 ch.9, GlobalABC, Drawdown, OMS, ONU-Habitat, EPBD 2024, Kigali). Aucune URL n'a donc été vérifiée et la colonne URL est vide.
+- Les chiffres marqués « de mémoire » ou « ordre de grandeur » sont à vérifier avant usage (2,3 milliards sans cuisson propre ; 3,2 millions de décès ; 1,1 milliard en habitat informel ; 5,6 milliards de climatiseurs en 2050 ; échéances EPBD ; jalons NZE). Aucun chiffre n'a été inventé : en cas de doute, il n'y en a pas.
+- Les sources attribuées sont indicatives (organisme qui traite classiquement le sujet), pas des citations de pages précises.
+- Possibles recoupements partiels (MB-009/MB-100, MB-066/MB-067) conservés car les leviers sont distincts (équipements vs obligations ; carbone incorporé vs approche cycle de vie).
