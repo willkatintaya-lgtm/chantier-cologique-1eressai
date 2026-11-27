@@ -69,7 +69,8 @@ def lire_n6(boites):
                 continue
             c = champs(l)
             ou = f"{os.path.basename(f)}:{no}"
-            if c[0] == "@":
+            if c[0].startswith("@"):
+                c = ["@", c[0][1:].strip()] + c[1:]
                 courant, k = c[1], 0
                 if courant not in boites or boites[courant]["niveau"] != 5:
                     alerte(f"chantier inconnu {courant} : {ou}")
@@ -100,7 +101,8 @@ def lire_n78(boites):
                 continue
             c = champs(l)
             ou = f"{os.path.basename(f)}:{no}"
-            if c[0] == "@":
+            if c[0].startswith("@"):
+                c = ["@", c[0][1:].strip()] + c[1:]
                 p6 = f"{chantier}.{c[1]}"
                 p7, k7 = None, 0
                 if p6 not in boites:
