@@ -2,220 +2,230 @@
 # Défis : A atténuation, D adaptation, B biodiversité, R ressources, P pollutions et santé
 
 # ── 1.1.1 Chauffer les bâtiments sans énergie fossile
-1.1.1.1.1 | Remplacer les chaudières au fioul et au GPL des maisons | Équiper d'un chauffage sans fossile les maisons individuelles chauffées par combustible livré, souvent rurales et hors réseau de gaz. | | A P |
-1.1.1.1.2 | Remplacer les chaufferies au fioul des immeubles et du tertiaire | Convertir les chaufferies collectives au fioul des immeubles d'habitation et des bâtiments tertiaires. | | A P |
+1.1.1.1.1 | Remplacer les chaudières au fioul et au GPL des maisons | Équiper d'un chauffage sans fossile les maisons individuelles chauffées par combustible livré, souvent rurales et hors réseau de gaz. | | A P | 1.1.1.2.1 1.1.1.4.1
+1.1.1.1.2 | Remplacer les chaufferies au fioul des immeubles et du tertiaire | Convertir les chaufferies collectives au fioul des immeubles d'habitation et des bâtiments tertiaires. | | A P | 1.1.1.3.3
 1.1.1.1.3 | Remplacer le chauffage domestique au charbon | Sortir du charbon les poêles et chaudières individuels, surtout en Chine du Nord, en Europe centrale et en Asie centrale. | | A P |
-1.1.1.1.4 | Organiser la fin de la filière fioul | Programmer l'arrêt des ventes d'équipements, retirer les cuves et reconvertir les distributeurs de combustibles. | | A P |
-1.1.1.2.1 | Électrifier la chaleur | Remplacer les chaudières à gaz par des pompes à chaleur et autres générateurs électriques pour le chauffage des locaux. | | A | 1.1.1.1.1
+1.1.1.1.4 | Organiser la fin des filières du fioul, du GPL et du charbon domestiques | Programmer l'arrêt des ventes d'équipements, retirer les cuves et reconvertir les distributeurs de combustibles. | | A P |
+1.1.1.2.1 | Électrifier la chaleur | Remplacer les chaudières à gaz par des pompes à chaleur pour le chauffage des locaux ; chantier de référence pour la pompe à chaleur, quel que soit le système remplacé. | | A R P | 1.1.3.3.2
 1.1.1.2.2 | Substituer des gaz renouvelables au gaz fossile | Réserver et acheminer le biométhane et les autres gaz renouvelables vers les bâtiments qui ne peuvent pas quitter le gaz. | | A |
-1.1.1.2.3 | Produire l'eau chaude sans gaz | Remplacer chauffe-eau et chaudières à gaz par des chauffe-eau thermodynamiques, solaires ou raccordés. | | A R |
+1.1.1.2.3 | Produire l'eau chaude sans gaz | Remplacer les chauffe-eau et chaudières à gaz ou au GPL par des chauffe-eau thermodynamiques, solaires ou collectifs décarbonés. | | A R | 1.1.1.5.2
 1.1.1.2.4 | Organiser le repli du réseau de gaz | Planifier quartier par quartier la fermeture du réseau de distribution, ses coûts et le sort des derniers abonnés. | | A |
 1.1.1.3.1 | Alimenter les réseaux en chaleur renouvelable et de récupération | Remplacer le charbon et le gaz des chaufferies de réseau par la géothermie, la chaleur fatale, le solaire, la biomasse et les grandes pompes à chaleur. | | A P |
 1.1.1.3.2 | Créer et étendre les réseaux de chaleur | Décider, financer et poser de nouveaux réseaux, à basse température, avec stockage. | | A |
-1.1.1.3.3 | Raccorder les bâtiments aux réseaux | Amener les immeubles, y compris à chauffage individuel, à se brancher sur un réseau existant. | | A | 1.1.1.2
-1.1.1.4.1 | Remplacer les appareils de chauffage au bois polluants | Retirer foyers ouverts et vieux poêles au profit d'appareils à haut rendement et faibles émissions de particules. | | P A |
+1.1.1.3.3 | Raccorder les bâtiments aux réseaux | Amener les immeubles, y compris à chauffage individuel, à se brancher sur un réseau existant. | | A |
+1.1.1.4.1 | Remplacer les appareils de chauffage au bois polluants | Retirer foyers ouverts et vieux poêles au profit d'appareils à haut rendement et faibles émissions de particules ; chantier de référence pour le chauffage au bois, quel que soit le système remplacé. | | P A |
 1.1.1.4.2 | Garantir un combustible bois sec et de qualité | Assurer l'approvisionnement en bûches et granulés secs, tracés et à prix stable. | | P R |
 1.1.1.4.3 | Réserver le bois aux usages que la ressource permet | Ajuster la demande de bois de chauffage à ce que les forêts et les autres usages de la biomasse peuvent fournir. | | B R A |
+1.1.1.5.1 | Remplacer les convecteurs des logements par des pompes à chaleur | Équiper les logements chauffés par résistance électrique, souvent des appartements sans circuit d'eau, d'un chauffage beaucoup plus économe. | | A | 1.1.1.2.1 1.1.5.4.3
+1.1.1.5.2 | Remplacer les chauffe-eau à résistance | Passer des ballons électriques classiques à des chauffe-eau thermodynamiques ou solaires, ou au moins les piloter. | | A R | 1.1.1.2.3
+1.1.1.5.3 | Remplacer le chauffage électrique direct du tertiaire | Convertir bureaux, commerces et bâtiments publics chauffés par résistances ou aérothermes électriques. | | A |
 
 # ── 1.1.2 Rénover les bâtiments existants
-1.1.2.1.1 | Isoler les murs | Isoler les façades par l'extérieur ou l'intérieur avec des solutions rapides, minces et abordables. | | A D R |
-1.1.2.1.2 | Isoler les toitures et les planchers | Isoler combles, toitures-terrasses, planchers bas et points singuliers. | | A D |
-1.1.2.1.3 | Remplacer les fenêtres et rendre l'enveloppe étanche à l'air | Poser des menuiseries performantes et traiter les fuites d'air et les ponts thermiques. | | A |
-1.1.2.1.4 | Industrialiser la rénovation globale | Réaliser en une fois, avec des éléments préfabriqués et une performance garantie, la rénovation complète d'un bâtiment. | | A |
-1.1.2.1.5 | Rénover le bâti ancien sans le dégrader | Améliorer les bâtiments d'avant l'ère industrielle et le patrimoine en respectant leurs matériaux, leur humidité et leur aspect. | | A R |
-1.1.2.2.1 | Décider les propriétaires de maisons qu'ils habitent | Amener les propriétaires occupants de maisons individuelles à engager une rénovation ambitieuse. | | A |
-1.1.2.2.2 | Faire voter les travaux en copropriété | Amener une assemblée de copropriétaires aux intérêts divergents à décider une rénovation d'ensemble. | | A |
-1.1.2.2.3 | Faire rénover les logements loués par des bailleurs privés | Amener le propriétaire qui ne paie pas les factures à rénover le logement de son locataire. | | A |
-1.1.2.2.4 | Faire rénover le parc de logement social | Donner aux bailleurs sociaux les moyens et l'obligation de rénover leur parc à grande échelle. | | A |
-1.1.2.2.5 | Faire rénover le tertiaire privé | Amener propriétaires et locataires de bureaux, commerces et entrepôts à réduire leurs consommations. | | A |
-1.1.2.2.6 | Faire rénover les bâtiments publics | Amener l'État et les collectivités à rénover écoles, hôpitaux et bâtiments administratifs. | | A D |
-1.1.2.3.1 | Cibler et simplifier les aides publiques | Rendre les subventions à la rénovation stables, lisibles, proportionnées au résultat et accessibles aux ménages modestes. | | A |
-1.1.2.3.2 | Prêter à tous les propriétaires | Donner accès au crédit travaux aux ménages âgés, modestes ou déjà endettés, et aux copropriétés. | | A |
-1.1.2.3.3 | Faire financer les travaux par un tiers remboursé sur les économies | Faire porter l'investissement par un opérateur qui se rémunère sur la performance obtenue. | | A |
-1.1.2.3.4 | Faire reconnaître la valeur de la rénovation dans les prix et les loyers | Faire que le marché immobilier, les banques et la fiscalité récompensent le bâtiment rénové. | | A |
-1.1.2.4.1 | Attirer et former la main-d'œuvre de la rénovation | Recruter et qualifier assez d'artisans et de techniciens pour le volume de travaux à réaliser. | | A |
-1.1.2.4.2 | Structurer des entreprises capables d'offres globales | Faire émerger des entreprises et groupements qui coordonnent tous les lots avec productivité. | | A |
-1.1.2.4.3 | Garantir la qualité et le résultat des travaux | Contrôler, mesurer et assurer la performance réelle des travaux, et écarter la fraude. | | A |
-1.1.2.4.4 | Fiabiliser les diagnostics et l'accompagnement | Donner à chaque propriétaire un diagnostic juste et un conseiller indépendant du début à la fin du projet. | | A |
+1.1.2.1.1 | Isoler les murs | Isoler les façades par l'extérieur ou l'intérieur avec des solutions rapides, minces et abordables, en préservant la faune qui niche dans le bâti. | | A D R B | 1.1.2.1.5
+1.1.2.1.2 | Isoler les toitures et les planchers | Isoler combles, toitures-terrasses, planchers bas et points singuliers, contre le froid comme contre la chaleur. | | A D R B |
+1.1.2.1.3 | Remplacer les fenêtres et rendre l'enveloppe étanche à l'air | Poser des menuiseries performantes et traiter les fuites d'air et les ponts thermiques. | | A R | 1.1.5.6.1
+1.1.2.1.4 | Rénover par éléments préfabriqués | Habiller un bâtiment de façades et de toitures fabriquées en usine et posées en quelques jours. | | A R | 1.1.2.4.2
+1.1.2.1.5 | Rénover le bâti ancien sans le dégrader | Améliorer les bâtiments d'avant l'ère industrielle et le patrimoine en respectant leurs matériaux, leur humidité et leur aspect ; parent principal de tout ce qui est propre au bâti ancien. | | A R |
+1.1.2.2.1 | Décider les propriétaires de maisons qu'ils habitent | Amener les propriétaires occupants de maisons individuelles à engager des travaux ambitieux. | | A D |
+1.1.2.2.2 | Faire voter les travaux en copropriété | Amener une assemblée de copropriétaires aux intérêts divergents à décider des travaux d'ensemble : isolation, chauffage collectif, protections solaires. | | A D |
+1.1.2.2.3 | Faire rénover les logements loués par des bailleurs privés | Amener le propriétaire qui ne paie pas les factures à rénover le logement de son locataire. | | A D P |
+1.1.2.2.4 | Faire rénover le parc de logement social | Donner aux bailleurs sociaux les moyens et l'obligation de rénover leur parc à grande échelle. | | A D |
+1.1.2.2.5 | Faire rénover le tertiaire privé | Amener propriétaires et locataires de bureaux, commerces et entrepôts à décider des travaux sur l'enveloppe et les systèmes. | | A | 1.1.5.3.4
+1.1.2.2.6 | Faire rénover les bâtiments publics | Amener l'État et les collectivités à rénover écoles, hôpitaux et bâtiments administratifs. | | A D | 1.1.3.4.2
+1.1.2.3.1 | Cibler et simplifier les aides publiques aux travaux | Rendre les subventions stables, lisibles, proportionnées au résultat et accessibles aux ménages modestes, pour l'énergie comme pour l'adaptation. | | A D |
+1.1.2.3.2 | Prêter à tous les propriétaires | Donner accès au crédit travaux aux ménages âgés, modestes ou déjà endettés, et aux copropriétés. | | A D |
+1.1.2.3.3 | Faire financer les travaux par un tiers remboursé sur les économies | Faire porter l'investissement par un opérateur qui se rémunère sur la performance obtenue. | | A | 1.1.5.3.4
+1.1.2.3.4 | Faire reconnaître la valeur des travaux dans les prix et les loyers | Faire que le marché immobilier, les banques et la fiscalité récompensent le bâtiment rénové et adapté. | | A D |
+1.1.2.4.1 | Attirer et former la main-d'œuvre des travaux | Recruter et qualifier assez d'artisans, d'installateurs de chauffage et de froid et de techniciens pour le volume de travaux à réaliser. | | A D |
+1.1.2.4.2 | Structurer des entreprises capables d'offres globales | Faire émerger des entreprises et groupements qui vendent et coordonnent une rénovation complète, tous lots compris. | | A |
+1.1.2.4.3 | Contrôler la qualité des travaux et mesurer leur résultat | Vérifier la performance réelle après travaux, prévenir les malfaçons et écarter la fraude. | | A P |
+1.1.2.4.4 | Fiabiliser les diagnostics et le conseil aux propriétaires | Donner à chaque propriétaire un diagnostic juste, confort d'été et vulnérabilité compris, et un conseiller indépendant du début à la fin du projet. | | A D |
 
 # ── 1.1.3 Rafraîchir les bâtiments
-1.1.3.1.1 | Protéger les baies du soleil | Équiper les fenêtres de protections extérieures et de vitrages qui arrêtent le rayonnement. | | D A |
-1.1.3.1.2 | Rendre toitures et façades réfléchissantes et isolantes à la chaleur | Limiter l'échauffement des parois par des revêtements clairs, de l'isolation et de l'inertie. | | D A |
-1.1.3.1.3 | Ombrager et rafraîchir par le végétal aux abords | Utiliser arbres, toitures et façades végétalisées et sols vivants pour abaisser la température autour du bâtiment. | | D B |
+1.1.3.1.1 | Protéger les baies du soleil | Équiper les fenêtres de volets, stores extérieurs, brise-soleil et films qui arrêtent le rayonnement. | | D A | 1.1.2.1.3
+1.1.3.1.2 | Empêcher toitures et façades de chauffer au soleil | Limiter l'échauffement des parois par des revêtements réfléchissants, l'inertie et la ventilation des combles ; l'isolation est sous « Rénover ». | | D A | 1.1.2.1.2
+1.1.3.1.3 | Ombrager et rafraîchir par le végétal | Utiliser arbres, pergolas, toitures et façades végétalisées pour abaisser la température du bâtiment ; parent principal de la végétalisation du bâti. | | D B |
 1.1.3.1.4 | Concevoir des bâtiments neufs adaptés aux climats chauds | Tirer parti de l'orientation, de la forme et des savoirs vernaculaires pour se passer de climatisation dans le neuf. | | D A |
-1.1.3.2.1 | Ventiler naturellement et la nuit | Évacuer la chaleur par des courants d'air et la fraîcheur nocturne, malgré le bruit, l'insécurité et la pollution. | | D A |
+1.1.3.2.1 | Ventiler naturellement et la nuit | Évacuer la chaleur par des courants d'air et la fraîcheur nocturne, malgré le bruit, l'insécurité et la pollution extérieure. | | D A | 1.1.5.6.1
 1.1.3.2.2 | Brasser l'air | Généraliser les ventilateurs de plafond et brasseurs d'air efficaces comme première réponse à la chaleur. | | D A |
-1.1.3.2.3 | Rafraîchir par évaporation | Déployer le rafraîchissement adiabatique là où l'air est sec et l'eau disponible. | | D A R |
-1.1.3.2.4 | Puiser la fraîcheur du sol et de l'eau | Rafraîchir par géothermie de surface, puits climatiques ou eau de nappe, sans compresseur. | | D A |
-1.1.3.3.1 | Élever le rendement des climatiseurs vendus | Faire que les climatiseurs achetés, surtout dans les pays émergents, soient les plus efficaces du marché. | | A D |
-1.1.3.3.2 | Sortir des fluides frigorigènes à fort effet de serre | Passer à des fluides à faible pouvoir réchauffant, éviter les fuites et récupérer les fluides en fin de vie. | | A P |
+1.1.3.2.3 | Rafraîchir par l'évaporation, le sol et l'eau | Déployer le rafraîchissement par évaporation, par géothermie de surface ou par eau de nappe, sans compresseur. | | D A R |
+1.1.3.3.1 | Élever le rendement des climatiseurs vendus | Faire que les climatiseurs et déshumidificateurs achetés, surtout dans les pays émergents, soient les plus efficaces du marché. | | A D |
+1.1.3.3.2 | Sortir des fluides frigorigènes à fort effet de serre | Passer à des fluides à faible pouvoir réchauffant, éviter les fuites et récupérer les fluides en fin de vie, pour tous les équipements du bâtiment : climatiseurs, pompes à chaleur, froid commercial, réfrigérateurs. | | A P |
 1.1.3.3.3 | Mutualiser la production de froid | Produire le froid à l'échelle de l'immeuble ou du quartier par des réseaux de froid et des installations collectives. | | A D |
 1.1.3.3.4 | Contenir la pointe électrique de la climatisation | Éviter que la demande de froid ne sature les réseaux électriques aux heures chaudes. | | A D | 1.1.5.4.3
-1.1.3.4.1 | Rafraîchir les logements des ménages pauvres | Rendre vivables en été les logements de ceux qui ne peuvent ni faire de travaux ni payer le froid, des passoires d'été aux toits de tôle. | | D P |
-1.1.3.4.2 | Rafraîchir les lieux qui accueillent des publics fragiles | Adapter à la chaleur écoles, maisons de retraite, hôpitaux, prisons et centres d'hébergement. | | D P | 1.1.2.2.6
-1.1.3.4.3 | Offrir des refuges frais et alerter pendant les canicules | Repérer les personnes isolées, les prévenir et leur ouvrir des lieux rafraîchis. | | D P |
+1.1.3.4.1 | Rafraîchir les logements des ménages pauvres | Rendre vivables en été les logements de ceux qui ne peuvent ni faire de travaux ni payer le froid. | | D P | 1.1.6.5.2
+1.1.3.4.2 | Rafraîchir les lieux qui accueillent des publics fragiles | Adapter à la chaleur écoles, maisons de retraite, hôpitaux, prisons et centres d'hébergement. | | D P |
+1.1.3.4.3 | Ouvrir des lieux rafraîchis pendant les canicules | Offrir à ceux dont le logement est invivable des pièces et des bâtiments refuges proches et accessibles. | | D P |
 
 # ── 1.1.4 Protéger les bâtiments des aléas climatiques
-1.1.4.1.1 | Tenir l'eau hors du bâtiment | Empêcher l'eau d'entrer par des barrières, des clapets, la surélévation et la gestion du ruissellement. | | D |
-1.1.4.1.2 | Construire et rénover pour supporter l'eau | Utiliser des matériaux, des réseaux et des aménagements qui survivent à une immersion. | | D |
-1.1.4.1.3 | Remettre vite en état après l'inondation | Sécher, assainir et réparer rapidement, en réduisant la vulnérabilité à la prochaine crue. | | D P |
+1.1.4.1.1 | Tenir l'eau hors du bâtiment | Empêcher l'eau d'entrer par des barrières, des clapets et la surélévation des constructions. | | D | 1.1.6.2.2
+1.1.4.1.2 | Construire et rénover pour supporter l'eau | Utiliser des matériaux, des réseaux et des aménagements qui survivent à une immersion, y compris dans l'habitat précaire. | | D |
+1.1.4.1.3 | Remettre vite en état un bâtiment inondé | Sécher, assainir et réparer rapidement, en réduisant la vulnérabilité à la prochaine crue. | | D P | 1.1.4.5.3
 1.1.4.1.4 | Faire face au recul du trait de côte et à la submersion marine | Protéger ou adapter les bâtiments du littoral menacés par l'érosion et la montée de la mer. | | D | 1.1.4.5.4
-1.1.4.2.1 | Prévenir les fissures dues aux argiles sur le bâti existant | Stabiliser l'humidité du sol et les fondations des maisons exposées au retrait-gonflement des argiles. | | D |
-1.1.4.2.2 | Construire sur sols argileux sans sinistre | Imposer et réaliser les études de sol et les fondations adaptées dans le neuf. | | D |
-1.1.4.2.3 | Réparer les maisons fissurées | Diagnostiquer, réparer durablement et à coût supportable les maisons sinistrées par les mouvements de sol. | | D |
-1.1.4.2.4 | Protéger des glissements, des éboulements et du dégel des sols | Prévenir les dégâts des mouvements de terrain en montagne et sur les sols gelés qui dégèlent. | | D |
+1.1.4.2.1 | Prévenir les dégâts des argiles gonflantes | Stabiliser les maisons existantes et fonder correctement les constructions neuves sur les sols argileux qui se rétractent à la sécheresse. | | D |
+1.1.4.2.2 | Protéger des glissements de terrain et des éboulements | Prévenir les dégâts des pentes instables, en montagne comme dans les quartiers construits à flanc de colline. | | D |
+1.1.4.2.3 | Bâtir et maintenir sur des sols qui dégèlent ou s'affaissent | Adapter les constructions au dégel du pergélisol et à l'affaissement des deltas et des villes côtières. | | D |
+1.1.4.2.4 | Réparer les bâtiments fissurés par les mouvements de sol | Diagnostiquer et réparer durablement, à coût supportable, les maisons sinistrées. | | D | 1.1.4.5.2
 1.1.4.3.1 | Rendre le bâtiment résistant aux braises et aux flammes | Traiter toitures, ouvertures, bardages et aérations pour qu'un feu de végétation n'embrase pas la construction. | | D |
 1.1.4.3.2 | Débroussailler et aménager les abords | Entretenir une zone peu combustible autour des constructions sans détruire la biodiversité. | | D B |
-1.1.4.3.3 | Organiser la défense du quartier contre le feu | Aménager l'interface entre habitat et végétation : accès, eau, évacuation, confinement. | | D |
+1.1.4.3.3 | Organiser la défense collective des lotissements contre le feu | Aménager les abords communs des habitations au contact de la végétation : accès, réserves d'eau, lieux de mise à l'abri. | | D |
 1.1.4.4.1 | Construire selon des règles de vent à jour | Appliquer dans le neuf des règles paracycloniques et de tenue au vent et à la grêle fondées sur le climat futur. | | D |
 1.1.4.4.2 | Renforcer les toitures et ouvertures du bâti existant | Ancrer les toitures, protéger les ouvertures et les équipements extérieurs des bâtiments déjà construits. | | D |
-1.1.4.4.3 | Protéger l'habitat léger et précaire des tempêtes | Renforcer à très bas coût les maisons en tôle, bois ou matériaux de récupération et abriter leurs occupants. | | D | 1.1.6.5
+1.1.4.4.3 | Protéger l'habitat léger, précaire et mobile des tempêtes | Renforcer à très bas coût les maisons en tôle ou en bois et les habitations mobiles, et abriter leurs occupants. | | D | 1.1.6.5.3
 1.1.4.5.1 | Faire connaître l'exposition de chaque bâtiment | Cartographier les aléas, diagnostiquer la vulnérabilité et informer acquéreurs, locataires et constructeurs. | | D |
-1.1.4.5.2 | Maintenir une assurance abordable | Garder les bâtiments exposés assurables, par la mutualisation, la prévention et de nouveaux produits pour les non-assurés. | | D |
-1.1.4.5.3 | Reconstruire mieux après un sinistre | Reloger vite et rebâtir des bâtiments moins vulnérables qu'avant la catastrophe. | | D |
+1.1.4.5.2 | Assurer les bâtiments exposés et financer leur prévention | Garder une assurance abordable par la mutualisation, la prévention qu'elle finance et de nouveaux produits pour les non-assurés. | | D | 1.1.2.3.1
+1.1.4.5.3 | Reconstruire mieux après une catastrophe | Reloger vite, gérer les débris et rebâtir des quartiers moins vulnérables après un sinistre de grande ampleur. | | D R A |
 1.1.4.5.4 | Relocaliser les bâtiments condamnés | Organiser et financer le déplacement des habitations qu'on ne peut plus protéger. | | D B |
 
 # ── 1.1.5 Faire fonctionner les bâtiments
-1.1.5.1.1 | Généraliser l'électroménager le plus sobre | Faire que réfrigérateurs, lave-linge et autres gros appareils vendus et en service soient les plus économes. | | A R | 1.2.3
-1.1.5.1.2 | Réduire la consommation de l'électronique et des veilles | Abaisser l'électricité des téléviseurs, box, ordinateurs et appareils en veille. | | A |
-1.1.5.1.3 | Éclairer efficacement et sans nuisance lumineuse | Généraliser l'éclairage à faible consommation, piloté, et limiter la lumière émise vers l'extérieur. | | A B |
-1.1.5.1.4 | Réduire l'électricité des équipements techniques du tertiaire | Abaisser la consommation des ascenseurs, pompes, ventilateurs, froid commercial, cuisines professionnelles et salles informatiques. | | A |
+1.1.5.1.1 | Généraliser les appareils domestiques sobres | Faire que l'électroménager et l'électronique vendus et en service, veilles comprises, soient les plus économes. | | A R | 1.2.3
+1.1.5.1.2 | Éclairer efficacement et sans nuisance lumineuse | Généraliser l'éclairage à faible consommation, piloté, et limiter la lumière émise vers l'extérieur. | | A B |
+1.1.5.1.3 | Réduire la consommation du froid commercial | Abaisser l'électricité des meubles frigorifiques, chambres froides et vitrines des commerces et de la restauration. | | A | 1.1.3.3.2
+1.1.5.1.4 | Réduire l'électricité des équipements techniques du tertiaire | Abaisser la consommation des ascenseurs, pompes, ventilateurs et salles informatiques des bâtiments. | | A |
 1.1.5.2.1 | Sortir du feu de bois les foyers ruraux qui collectent leur combustible | Offrir une cuisson propre aux ménages ruraux pauvres pour qui le combustible actuel est gratuit. | | P B A |
 1.1.5.2.2 | Sortir du charbon de bois et du pétrole lampant les foyers urbains | Remplacer les combustibles de cuisson achetés au jour le jour par des solutions propres au même coût quotidien. | | P B A |
-1.1.5.2.3 | Remplacer la cuisson au gaz par l'électrique | Passer des cuisinières à gaz à l'induction, pour l'air intérieur et pour quitter le réseau de gaz. | | P A | 1.1.1.2
+1.1.5.2.3 | Remplacer la cuisson au gaz par l'électrique | Passer du gaz à l'induction dans les logements et les cuisines professionnelles, pour l'air intérieur et pour quitter le réseau de gaz. | | P A | 1.1.1.2.4
 1.1.5.3.1 | Mesurer et afficher les consommations | Donner à chaque occupant et gestionnaire une mesure fine, lisible et individualisée de ses consommations. | | A |
 1.1.5.3.2 | Réguler automatiquement le chauffage et les équipements | Équiper les bâtiments de thermostats, de régulation et de gestion technique qui fonctionnent réellement. | | A |
 1.1.5.3.3 | Adopter des usages sobres | Installer durablement des températures de consigne et des habitudes économes sans perte de confort ressentie. | | A |
-1.1.5.3.4 | Exploiter les bâtiments de façon professionnelle | Régler, entretenir et suivre les installations avec un engagement sur les consommations. | | A |
-1.1.5.3.5 | Sortir les ménages de la précarité énergétique | Permettre à ceux qui se privent ou ne peuvent pas payer d'accéder au confort thermique. | | P A | 1.1.3.4.1
-1.1.5.4.1 | Équiper les toitures en solaire | Installer du photovoltaïque sur les maisons, les immeubles, les bâtiments tertiaires et leurs parkings. | | A |
+1.1.5.3.4 | Exploiter et entretenir les bâtiments de façon professionnelle | Régler, entretenir et suivre les installations et le bâti, avec un engagement sur les consommations. | | A D |
+1.1.5.3.5 | Garantir l'énergie nécessaire aux ménages qui se privent | Repérer ceux qui ne se chauffent plus ou ne peuvent pas payer, et les aider par les tarifs, les aides au paiement et la protection contre les coupures ; les travaux sont sous « Rénover ». | | P A | 1.1.2.3.1 1.1.3.4.1
+1.1.5.4.1 | Équiper les toitures en solaire | Installer du photovoltaïque sur les maisons, les immeubles, les bâtiments tertiaires et leurs parkings. | | A R |
 1.1.5.4.2 | Partager l'électricité produite sur place | Répartir la production entre occupants et voisins : immeubles collectifs, autoconsommation collective, communautés d'énergie. | | A |
-1.1.5.4.3 | Stocker l'énergie et moduler la demande | Décaler les consommations et stocker dans des batteries, des ballons ou des véhicules pour soulager le réseau. | | A R |
-1.1.5.4.4 | Électrifier les logements hors réseau | Fournir une électricité propre et fiable aux logements non desservis ou mal desservis par le réseau. | | A P |
-1.1.5.5.1 | Réduire l'eau consommée dans le logement et au jardin | Limiter fuites, débits, arrosage et remplissage des piscines. | | R D |
-1.1.5.5.2 | Récupérer et utiliser l'eau de pluie | Capter l'eau de toiture pour les usages qui n'exigent pas d'eau potable, ou comme ressource principale. | | R D |
-1.1.5.5.3 | Réutiliser les eaux grises | Recycler les eaux de douche et de lavage, et leur chaleur, dans le bâtiment. | | R A |
-1.1.5.5.4 | Assainir sans réseau et sans gaspiller d'eau | Traiter les eaux usées et les excreta là où le tout-à-l'égout n'existe pas ou consomme trop. | | P R |
-1.1.5.6.1 | Renouveler l'air sans perdre la chaleur | Installer, entretenir et faire fonctionner une ventilation efficace, mesurée, à récupération de chaleur. | | P A | 1.1.2.1
-1.1.5.6.2 | Retirer l'amiante et le plomb du bâti | Repérer et éliminer sans danger les matériaux toxiques hérités, notamment à l'occasion des travaux. | | P | 1.1.2
-1.1.5.6.3 | Réduire les émissions des matériaux, des meubles et des produits | Limiter les composés volatils émis à l'intérieur par les revêtements, le mobilier et les produits ménagers. | | P | 1.2.2.2
+1.1.5.4.3 | Stocker l'énergie, moduler la demande et tenir pendant les coupures | Décaler les consommations, stocker dans des batteries, des ballons ou des véhicules, et garder le bâtiment alimenté quand le réseau tombe. | | A R D |
+1.1.5.4.4 | Électrifier proprement les bâtiments hors réseau ou mal desservis | Fournir une électricité propre et fiable aux logements, écoles et centres de santé sans réseau, et remplacer les groupes électrogènes. | | A P R | 1.2.5.3.3
+1.1.5.5.1 | Garantir une eau saine au robinet | Supprimer le plomb des canalisations, prévenir la légionelle et sécuriser le stockage d'eau dans le bâtiment. | | P |
+1.1.5.5.2 | Réduire l'eau consommée dans le logement et au jardin | Limiter fuites, débits, arrosage et remplissage des piscines. | | R D |
+1.1.5.5.3 | Récupérer et utiliser l'eau de pluie | Capter l'eau de toiture pour les usages qui n'exigent pas d'eau potable, ou comme ressource principale là où l'eau manque. | | R D | 1.1.6.2.2
+1.1.5.5.4 | Réutiliser les eaux grises | Recycler les eaux de douche et de lavage, et leur chaleur, dans le bâtiment. | | R A |
+1.1.5.5.5 | Équiper de toilettes sûres les logements qui n'en ont pas | Donner accès à des toilettes hygiéniques, avec ou sans eau, aux ménages qui en sont privés. | | P R |
+1.1.5.5.6 | Traiter les eaux usées et les boues sans tout-à-l'égout | Assainir à l'échelle du bâtiment ou du quartier, vidanger et valoriser les boues là où le réseau n'existe pas. | | P R B |
+1.1.5.6.1 | Renouveler l'air sans perdre la chaleur | Installer, entretenir et faire fonctionner une ventilation efficace, mesurée, à récupération de chaleur ; parent principal de la ventilation. | | P A |
+1.1.5.6.2 | Retirer l'amiante et le plomb du bâti | Repérer et éliminer sans danger les matériaux toxiques hérités, notamment à l'occasion des travaux. | | P | 1.1.6.4.1
+1.1.5.6.3 | Réduire les émissions des matériaux, des meubles et des produits | Limiter les composés volatils émis à l'intérieur par les revêtements, le mobilier et les produits ménagers. | | P | 1.2.2.2.2
 1.1.5.6.4 | Supprimer l'humidité et les moisissures | Traiter les causes d'humidité des logements et leurs effets sur la santé. | | P D |
 1.1.5.6.5 | Protéger du radon et de l'air extérieur pollué | Empêcher l'entrée du radon, des particules et des fumées, et filtrer l'air quand l'extérieur est pollué. | | P D |
 
 # ── 1.1.6 Construire moins et mieux
 1.1.6.1.1 | Remettre en usage les logements et locaux vacants | Ramener sur le marché les logements et locaux vides, par la remise en état, l'incitation ou la contrainte. | | R A B |
-1.1.6.1.2 | Réduire la sous-occupation des logements | Faciliter le déménagement vers plus petit, la division et la cohabitation dans les grands logements peu occupés. | | R A |
-1.1.6.1.3 | Transformer bureaux et locaux en logements | Changer l'usage de bâtiments existants, les surélever ou les étendre plutôt que construire ailleurs. | | R A B |
-1.1.6.1.4 | Partager les surfaces entre usages et dans le temps | Mutualiser bureaux, équipements et espaces communs, et mieux employer les résidences secondaires. | | R A |
-1.1.6.2.1 | Construire sur le déjà-bâti | Loger par la densification, les friches et les dents creuses, en la rendant acceptable et rentable. | | B R |
-1.1.6.2.2 | Garder les parcelles perméables et gérer la pluie sur place | Désimperméabiliser et infiltrer l'eau de pluie à la parcelle. | | D B R |
-1.1.6.2.3 | Accueillir la biodiversité sur le bâtiment et la parcelle | Offrir pleine terre, végétation locale et abris à la faune, sans pesticides ni pièges pour les animaux. | | B P |
-1.1.6.3.1 | Concevoir des bâtiments frugaux en matière | Réduire les quantités par la compacité, l'optimisation des structures et la mesure du carbone sur le cycle de vie. | | A R |
-1.1.6.3.2 | Construire en bois et en matériaux biosourcés | Substituer bois, paille, chanvre et autres fibres aux matériaux minéraux, avec une ressource bien gérée. | | A R B |
+1.1.6.1.2 | Réduire la sous-occupation des logements | Mieux employer les grands logements peu occupés, les résidences secondaires et les meublés touristiques : déménager vers plus petit, diviser, cohabiter. | | R A |
+1.1.6.1.3 | Transformer les bâtiments existants plutôt que les démolir | Changer l'usage de bureaux et de locaux, et réhabiliter lourdement au lieu de démolir pour reconstruire. | | R A B | 1.1.6.4.1
+1.1.6.1.4 | Partager les surfaces non résidentielles et les espaces communs | Mutualiser bureaux, équipements et locaux communs entre usagers et selon les heures. | | R A |
+1.1.6.2.1 | Construire sur le déjà-bâti | Loger par la densification, la surélévation, les friches et les dents creuses, en la rendant acceptable et rentable. | | B R |
+1.1.6.2.2 | Garder les parcelles perméables et gérer la pluie sur place | Désimperméabiliser, retenir et infiltrer l'eau de pluie à la parcelle ; parent principal des eaux pluviales. | | D B R |
+1.1.6.2.3 | Accueillir la biodiversité sur le bâtiment et la parcelle | Offrir pleine terre, végétation locale et abris à la faune, sans pesticides ni pièges pour les animaux. | | B P | 1.1.3.1.3
+1.1.6.3.1 | Concevoir des bâtiments frugaux en matière | Réduire les quantités par des surfaces mesurées, la compacité, l'optimisation des structures et le calcul du carbone sur le cycle de vie. | | A R |
+1.1.6.3.2 | Construire en bois et en matériaux biosourcés | Substituer bois, paille, chanvre et autres fibres aux matériaux minéraux, en construction comme en isolation, avec une ressource bien gérée. | | A R B |
 1.1.6.3.3 | Construire en terre, en pierre et en matériaux locaux | Remettre à l'échelle les matériaux géosourcés peu transformés. | | A R |
-1.1.6.3.4 | Réduire le carbone du béton, de l'acier et des briques mis en œuvre | Prescrire et utiliser des liants, aciers et briques moins émetteurs, et en mettre moins. | | A R P |
+1.1.6.3.4 | Réduire le carbone et l'extraction du béton, de l'acier, des briques et du sable | Prescrire et utiliser des liants, aciers et briques moins émetteurs, des granulats tracés, et en mettre moins. | | A R B P |
 1.1.6.3.5 | Industrialiser la construction | Produire hors site, numériser et fiabiliser le chantier pour réduire coûts, déchets et malfaçons. | | A R |
-1.1.6.4.1 | Déconstruire sélectivement au lieu de démolir | Diagnostiquer puis déposer les bâtiments de façon à préserver la valeur des éléments et des matériaux. | | R |
+1.1.6.3.6 | Construire des bâtiments neufs à très basse consommation | Imposer et réussir, sous tous les climats, des bâtiments neufs qui consomment très peu et n'émettent rien à l'usage. | | A D | 1.1.3.1.4
+1.1.6.4.1 | Déconstruire sélectivement au lieu de démolir | Diagnostiquer puis déposer les bâtiments de façon à préserver la valeur des éléments et des matériaux. | | R P |
 1.1.6.4.2 | Réemployer les éléments de construction | Créer un marché fiable, assuré et approvisionné des composants de seconde main. | | R A |
 1.1.6.4.3 | Recycler les déchets de chantier | Trier et recycler en matériaux de même usage le béton, le plâtre, le verre, les isolants et le bois. | | R P |
 1.1.6.4.4 | Concevoir des bâtiments démontables et évolutifs | Construire pour durer, changer d'usage et être démonté, avec la mémoire de ce que le bâtiment contient. | | R A |
-1.1.6.5.1 | Améliorer les quartiers informels sur place | Sécuriser le foncier et apporter services, salubrité et protection contre les risques sans déplacer les habitants. | | P D |
-1.1.6.5.2 | Outiller l'auto-construction | Donner aux ménages qui bâtissent eux-mêmes des matériaux, des plans, un appui technique et un financement adaptés. | | A D R |
-1.1.6.5.3 | Produire en masse du logement abordable et sobre | Faire que les logements neufs bon marché des villes en croissance soient économes, confortables sans climatisation et peu carbonés. | | A D |
-1.1.6.5.4 | Abriter durablement les personnes déplacées | Fournir aux réfugiés et déplacés des abris sûrs, vivables sous climat extrême et peu coûteux en ressources. | | D R P |
+1.1.6.5.1 | Sécuriser le foncier et le statut des habitants des quartiers informels | Donner aux habitants un droit d'occuper reconnu, condition de tout investissement dans leur logement. | | D P |
+1.1.6.5.2 | Équiper et assainir les quartiers informels sur place | Apporter eau, assainissement, électricité et salubrité sans déplacer les habitants. | | P D | 1.1.5.5.5 1.1.5.4.4
+1.1.6.5.3 | Outiller l'auto-construction | Donner aux ménages qui bâtissent eux-mêmes des matériaux, des plans, un appui technique et un financement adaptés. | | A D R |
+1.1.6.5.4 | Produire en masse du logement abordable et sobre | Faire que les logements neufs bon marché des villes en croissance soient financés, économes et peu carbonés. | | A D | 1.1.3.1.4 1.1.6.3.6
+1.1.6.5.5 | Abriter durablement les personnes déplacées | Fournir aux réfugiés et déplacés des abris sûrs, vivables sous climat extrême et peu coûteux en ressources. | | D R P |
 
 # ── 1.2.1 Orienter la demande vers moins et mieux
-1.2.1.1.1 | Mesurer l'impact de chaque produit | Produire, pour chaque produit, des données d'impact et de traçabilité fiables et peu coûteuses. | | A R B P |
-1.2.1.1.2 | Afficher un score lisible au moment de l'achat | Présenter l'impact de façon simple et comparable, en rayon comme en ligne. | | A R B P |
+1.2.1.1.1 | Mesurer et tracer l'impact de chaque produit | Produire, pour chaque produit, des données fiables et peu coûteuses sur son impact, sa composition et son parcours ; parent principal de la traçabilité et du passeport produit. | | A R B P |
+1.2.1.1.2 | Afficher un score lisible au moment de l'achat | Présenter l'impact de façon simple et comparable, en rayon comme en ligne. | | A R B P | 1.2.3.1.4
 1.2.1.1.3 | Empêcher les allégations trompeuses | Détecter, sanctionner et prévenir l'écoblanchiment et les labels sans substance. | | A R B P |
 1.2.1.2.1 | Encadrer la publicité et le marketing d'influence | Réduire le volume et l'efficacité de la publicité pour les produits et pratiques les plus nocifs. | | R A |
-1.2.1.2.2 | Freiner les pratiques commerciales qui poussent au volume | Limiter les promotions permanentes, le renouvellement accéléré des collections, les prix cassés et le crédit facile. | | R A |
+1.2.1.2.2 | Freiner les pratiques commerciales qui poussent au volume | Limiter les promotions permanentes, les prix cassés, la livraison gratuite et le crédit facile. | | R A | 1.2.2.3.2
 1.2.1.2.3 | Rendre la sobriété désirable | Faire évoluer les normes sociales, les récits et les rituels d'achat et de cadeau. | | R A |
-1.2.1.3.1 | Faire payer aux produits leur coût environnemental | Corriger les prix par la fiscalité, les primes et pénalités et les contributions modulées. | | R A P |
+1.2.1.2.4 | Modérer les usages numériques et le nombre d'écrans | Limiter la multiplication des écrans et des objets connectés et les mécanismes qui captent l'attention. | | A R | 1.2.2.4
+1.2.1.3.1 | Faire payer aux produits leur coût environnemental | Corriger les prix par la fiscalité, les primes et pénalités et les contributions modulées selon l'impact. | | R A P | 1.2.5.1.3
 1.2.1.3.2 | Rendre l'offre durable accessible aux petits budgets | Lever l'obstacle du prix d'achat plus élevé des produits qui durent. | | R A |
 1.2.1.3.3 | Mettre l'offre durable sur le chemin de l'acheteur | Faire que l'option la moins nocive soit présente, visible et proposée par défaut dans les magasins et en ligne. | | R A |
+1.2.1.3.4 | Faire respecter les règles par tous les vendeurs | Contrôler les produits importés, les vendeurs à distance et les places de marché en ligne : sécurité, substances, contributions dues. | | P R |
 1.2.1.4.1 | Verdir la commande publique | Faire des achats de l'État et des collectivités un débouché garanti pour les produits durables, réemployés et recyclés. | | R A |
-1.2.1.4.2 | Verdir les achats des grandes entreprises | Intégrer durée de vie, réemploi et empreinte dans les achats d'équipements, de mobilier et de fournitures. | | R A |
-1.2.1.4.3 | Donner aux petites organisations accès aux achats durables | Rendre l'achat durable simple et groupé pour les petites entreprises, les associations et les événements. | | R A |
+1.2.1.4.2 | Verdir les achats des entreprises et des associations | Intégrer durée de vie, réemploi et empreinte dans les achats d'équipements, de mobilier et de fournitures, y compris pour les petites structures. | | R A |
 
 # ── 1.2.2 Concevoir des produits et services sobres et sains
 1.2.2.1.1 | Passer à des fibres textiles sobres | Réduire l'impact du coton, des synthétiques et de la viscose par des fibres moins gourmandes en eau, en pesticides et en pétrole. | | R B A P |
-1.2.2.1.2 | Remplacer ou assainir le cuir et les matières animales | Réduire l'impact du cuir, de la laine, du duvet et de la fourrure, de l'élevage au tannage. | | B P A |
+1.2.2.1.2 | Choisir des matières animales moins nocives ou les remplacer | Réduire l'impact du cuir, de la laine, du duvet et de la fourrure par le choix des filières, du tannage et des substituts. | | B P A |
 1.2.2.1.3 | S'approvisionner en métaux responsables et recyclés | Réduire la quantité et l'impact des métaux critiques, de l'or et de l'étain dans les produits. | | R B P |
-1.2.2.1.4 | Garantir du bois, du papier et des matières végétales sans déforestation | Tracer et certifier le bois des meubles, le papier, le caoutchouc et les dérivés de palme non alimentaires. | | B R A |
-1.2.2.1.5 | Réduire le plastique vierge fossile dans les produits | Alléger, substituer ou incorporer du recyclé dans les objets en plastique durables. | | R A P |
+1.2.2.1.4 | Garantir du bois, du papier et des matières végétales sans déforestation | Certifier le bois des meubles, le papier, le caoutchouc, les dérivés de palme non alimentaires et les terreaux sans tourbe. | | B R A |
+1.2.2.1.5 | Réduire le plastique vierge fossile dans les produits | Alléger, substituer ou incorporer du recyclé dans les objets en plastique durables. | | R A P | 1.2.5.3.6
+1.2.2.1.6 | Concevoir les produits pour qu'ils se recyclent | Limiter le nombre de matières, les assemblages inséparables et les additifs qui empêchent le recyclage des biens durables. | | R | 1.2.5.3
 1.2.2.2.1 | Sortir des PFAS et des polluants persistants | Remplacer les substances qui ne se dégradent pas dans les textiles, ustensiles, cosmétiques et appareils. | | P B |
-1.2.2.2.2 | Retirer les toxiques des produits du quotidien | Éliminer perturbateurs endocriniens, métaux lourds et allergènes des cosmétiques, jouets, textiles et ustensiles. | | P |
+1.2.2.2.2 | Retirer les substances toxiques pour la santé des produits du quotidien | Éliminer perturbateurs endocriniens, métaux lourds et allergènes des cosmétiques, jouets, textiles, meubles et ustensiles. | | P |
 1.2.2.2.3 | Stopper les microplastiques émis par les produits | Supprimer les microplastiques ajoutés et retenir ceux que libèrent les textiles, les gazons synthétiques et l'usure. | | P B |
-1.2.2.2.4 | Formuler des produits d'entretien et d'hygiène inoffensifs pour l'eau | Concevoir détergents, biocides et produits de soin qui ne polluent ni l'eau ni les sols après usage. | | P B |
-1.2.2.2.5 | Connaître et tracer les substances contenues dans les produits | Rendre la composition chimique transparente tout au long de la chaîne, jusqu'au recyclage. | | P R |
-1.2.2.3.1 | Faire décarboner et dépolluer les usines des fournisseurs | Utiliser le pouvoir des marques pour réduire l'énergie fossile, l'eau et les rejets de leurs sous-traitants. | | A P R |
-1.2.2.3.2 | Produire seulement ce qui se vendra | Réduire la surproduction et les invendus par la prévision, la production à la demande et la précommande. | | R A | 1.2.3.3.4
-1.2.2.3.3 | Réduire l'empreinte de la vente à distance | Limiter les retours, le vide transporté et l'urgence dans le commerce en ligne. | | A R | 1.2.4.2
-1.2.2.3.4 | Tracer et raccourcir les chaînes d'approvisionnement | Connaître chaque maillon de la fabrication et rapprocher la production quand cela réduit l'impact. | | A B P |
+1.2.2.2.4 | Supprimer les rejets toxiques pour l'eau et les sols | Concevoir détergents, biocides, produits de jardin, soins et antiparasitaires des animaux qui ne polluent pas après usage. | | P B |
+1.2.2.3.1 | Exiger des fournisseurs des usines propres | Utiliser le pouvoir d'achat des marques pour obtenir de leurs sous-traitants moins d'énergie fossile, d'eau et de rejets, et des sites préparés aux chaleurs et aux inondations. | | A P R D |
+1.2.2.3.2 | Produire seulement ce qui se vendra | Réduire la surproduction avant fabrication par la prévision, des collections moins nombreuses, la production à la demande et la précommande. | | R A | 1.2.3.3.4
+1.2.2.3.3 | Réduire l'empreinte de la vente à distance | Limiter les retours, le vide transporté et l'urgence dans le commerce en ligne. | | A R | 1.2.4.2.5
 1.2.2.4.1 | Alléger les logiciels, les sites et les applications | Concevoir des services qui demandent peu de calcul et de données et fonctionnent sur des appareils anciens. | | A R | 1.2.3.1.3
 1.2.2.4.2 | Réduire le poids de la vidéo et des données stockées | Limiter le trafic et le stockage engendrés par la vidéo en ligne, le cloud et la sauvegarde. | | A R |
-1.2.2.4.3 | Rendre l'intelligence artificielle frugale | Réduire l'énergie, l'eau et le matériel mobilisés par l'entraînement et l'usage des modèles. | | A R |
-1.2.2.4.4 | Modérer les usages numériques et le nombre d'équipements connectés | Limiter la multiplication des écrans, des objets connectés et du temps d'usage. | | A R |
+1.2.2.4.3 | Concevoir et utiliser des services d'intelligence artificielle frugaux | Réduire le calcul, l'énergie et l'eau que demandent les services d'IA, par leur conception et par le choix de leurs usages. | | A R |
 
 # ── 1.2.3 Faire durer les produits
-1.2.3.1.1 | Fabriquer des produits qui ne cassent pas | Concevoir et tester les produits pour une longue durée d'usage réel : vêtements, appareils, meubles. | | R A |
-1.2.3.1.2 | Concevoir des produits démontables aux pièces standard | Rendre chaque composant accessible, remplaçable et commun à plusieurs modèles. | | R A |
+1.2.3.1.1 | Fabriquer des produits qui ne cassent pas | Concevoir et tester les produits pour une longue durée d'usage réel : vêtements, chaussures, appareils, meubles, jouets. | | R A |
+1.2.3.1.2 | Concevoir des produits démontables aux pièces standard | Rendre chaque composant accessible, remplaçable et commun à plusieurs modèles, dès la conception. | | R A |
 1.2.3.1.3 | Maintenir les logiciels à jour longtemps | Empêcher qu'un appareil en état de marche devienne inutilisable faute de mises à jour ou par verrouillage logiciel. | | R A |
-1.2.3.1.4 | Engager le fabricant sur la durée de vie | Faire porter au fabricant, par la garantie, l'affichage et la responsabilité, le risque d'une vie courte. | | R A |
+1.2.3.1.4 | Engager le fabricant sur la durée de vie | Faire porter au fabricant, par la garantie, les indices de réparabilité et de durabilité et la responsabilité, le risque d'une vie courte. | | R A |
 1.2.3.1.5 | Créer des produits qu'on ne veut pas remplacer | Lutter contre l'obsolescence de mode par des produits intemporels, évolutifs et auxquels on s'attache. | | R A | 1.2.1.2
-1.2.3.2.1 | Abaisser le prix de la réparation | Faire que réparer coûte nettement moins que racheter. | | R A |
-1.2.3.2.2 | Rendre la réparation proche et rapide | Offrir partout un réparateur accessible, des délais courts et un produit de prêt. | | R A |
-1.2.3.2.3 | Donner accès aux pièces, aux outils et à la documentation | Garantir des pièces disponibles, abordables, neuves ou d'occasion, et l'information pour les poser. | | R A |
-1.2.3.2.4 | Former des réparateurs et outiller l'autoréparation | Recréer les métiers de la réparation et rendre les particuliers capables de réparer eux-mêmes. | | R A |
-1.2.3.2.5 | Entretenir pour éviter la panne | Faire adopter l'entretien préventif des appareils, des vêtements et des meubles. | | R A |
+1.2.3.2.1 | Réparer l'électronique et l'informatique | Faire réparer plutôt que remplacer téléphones, ordinateurs, téléviseurs et appareils audio. | | R A |
+1.2.3.2.2 | Réparer l'électroménager | Faire réparer plutôt que remplacer le gros et le petit électroménager. | | R A |
+1.2.3.2.3 | Entretenir et réparer les vêtements et les chaussures | Faire durer le linge, les vêtements et les chaussures par l'entretien, la retouche et la cordonnerie. | | R A P |
+1.2.3.2.4 | Réparer et rénover les meubles et la literie | Remettre en état, relooker et retapisser le mobilier au lieu de le jeter. | | R A |
+1.2.3.2.5 | Réparer les jouets et les articles de sport, de loisirs, de bricolage et de jardin | Faire durer les objets de loisirs et les outils par la réparation et les pièces. | | R A |
+1.2.3.2.6 | Donner à la réparation des règles et des aides communes | Abaisser le coût et sécuriser l'acte de réparer pour toutes les familles : aides à la réparation, fiscalité, accès aux pièces et à la documentation, garantie après réparation, formation des réparateurs. | | R A | 1.2.1.3.1
 1.2.3.3.1 | Fluidifier la revente entre particuliers | Rendre la vente et l'achat d'occasion aussi simples et sûrs que le neuf. | | R A |
 1.2.3.3.2 | Industrialiser le reconditionnement professionnel | Remettre en état à grande échelle appareils, meubles et vêtements, avec approvisionnement, qualité et garantie. | | R A |
-1.2.3.3.3 | Capter les produits dormants et les dons | Faire sortir des placards et des caves les produits inutilisés et les orienter vers le réemploi. | | R A | 1.2.5.1.5
-1.2.3.3.4 | Écouler les invendus et les retours sans les détruire | Trouver un débouché de réemploi aux produits neufs non vendus ou renvoyés. | | R A |
-1.2.3.3.5 | Maîtriser les exportations de produits d'occasion | Faire que les vêtements et appareils usagés envoyés au Sud y soient réellement réutilisés et non déversés. | | R P | 1.2.5.5.3
+1.2.3.3.3 | Capter les produits dormants et les dons | Faire sortir des placards et des caves les produits inutilisés et les orienter vers le réemploi, jusqu'au point d'apport. | | R A | 1.2.5.2.4
+1.2.3.3.4 | Écouler les invendus et les retours sans les détruire | Trouver un débouché de réemploi aux produits neufs déjà fabriqués, non vendus ou renvoyés. | | R A |
+1.2.3.3.5 | Maîtriser les exportations de produits d'occasion | Faire que les vêtements et appareils usagés envoyés au Sud y soient réellement réutilisés et non déversés. | | R P B | 1.2.5.5.3
 1.2.3.4.1 | Louer les biens d'usage occasionnel | Proposer en location simple outils, équipements de sport, vêtements et matériel d'événement. | | R A |
 1.2.3.4.2 | Partager entre voisins et entre pairs | Organiser le prêt et la mise en commun d'objets à l'échelle d'un immeuble, d'un quartier ou d'une plateforme. | | R A |
 1.2.3.4.3 | Vendre l'usage plutôt que le produit | Faire du fabricant le propriétaire durable du produit, payé à l'usage ou par abonnement. | | R A |
 
 # ── 1.2.4 Sortir de l'usage unique
-1.2.4.1.1 | Développer la vente en vrac | Vendre sans emballage en magasin, avec hygiène, information et prix compétitifs. | | R P |
-1.2.4.1.2 | Supprimer le suremballage des produits préemballés | Retirer films, lots, calages et vide inutiles, et concentrer les produits. | | R P |
-1.2.4.1.3 | Remplacer les boissons en bouteille jetable | Substituer l'eau du robinet, les fontaines et la préparation sur place aux bouteilles à usage unique. | | R P |
-1.2.4.1.4 | Servir les petits budgets sans sachets individuels | Remplacer les doses en sachet multicouche par une vente fractionnée sans déchet dans les marchés à bas revenus. | | P R B |
-1.2.4.2.1 | Concevoir des contenants réemployables standardisés | Créer des emballages robustes, lavables et communs à plusieurs marques. | | R |
-1.2.4.2.2 | Faire revenir les emballages | Obtenir un taux de retour élevé par la consigne, la proximité des points de reprise et la simplicité du geste. | | R P |
-1.2.4.2.3 | Laver et reconditionner à coût compétitif | Disposer de capacités de lavage proches, sûres et sobres en eau et en énergie. | | R A |
-1.2.4.2.4 | Organiser la logistique de retour | Collecter, trier, tracer et redistribuer les contenants entre de nombreux acteurs. | | R A |
-1.2.4.2.5 | Recharger chez soi et en magasin | Vendre le produit sans son contenant, par recharges, concentrés et distributeurs. | | R P |
+1.2.4.1.1 | Vendre en vrac et en recharge | Vendre le produit sans son contenant, au distributeur en magasin ou par recharge à domicile, avec hygiène, information et prix compétitifs. | | R P |
+1.2.4.1.2 | Supprimer le suremballage et concentrer les produits | Retirer films, lots, calages et vide inutiles des produits préemballés, et réduire le volume vendu par la concentration. | | R P |
+1.2.4.1.3 | Remplacer les boissons en bouteille jetable | Substituer l'eau du robinet, les fontaines et la préparation sur place aux bouteilles à usage unique. | | R P | 1.1.5.5.1
+1.2.4.1.4 | Servir les petits budgets sans sachets individuels | Remplacer les doses en sachet multicouche par une vente fractionnée sans déchet dans les marchés à bas revenus. | | P R B D |
+1.2.4.1.5 | Supprimer les sacs et les emballages remis en caisse | Faire disparaître sacs de caisse, sachets de fruits et légumes et emballages de comptoir jetables. | | P R B |
+1.2.4.2.1 | Bâtir l'infrastructure commune du réemploi | Mutualiser entre marques et circuits des contenants standard, des capacités de lavage, une logistique de retour et un suivi des contenants. | | R A |
+1.2.4.2.2 | Faire rapporter les emballages par les clients | Obtenir un taux de retour élevé par la consigne, la proximité des points de reprise et la simplicité du geste. | | R P | 1.2.5.2.3
+1.2.4.2.3 | Réemployer les emballages de boissons et d'épicerie | Faire adopter bouteilles, bocaux et pots réemployables par les marques et la grande distribution. | | R A |
+1.2.4.2.4 | Réemployer les contenants de la vente à emporter et de la livraison de repas | Remplacer boîtes, gobelets et barquettes jetables par des contenants qui reviennent. | | R P |
+1.2.4.2.5 | Réemployer les emballages d'expédition et de transport | Faire tourner colis, caisses, palettes et calages réutilisables entre expéditeurs et destinataires. | | R A |
 1.2.4.3.1 | Simplifier les emballages plastiques pour qu'ils se recyclent | Passer à des emballages d'un seul matériau, sans perturbateurs du tri, y compris pour les films souples. | | R P |
-1.2.4.3.2 | Incorporer de la matière recyclée dans les emballages | Utiliser du recyclé de qualité, y compris au contact des aliments. | | R A |
+1.2.4.3.2 | Rendre possible l'incorporation de matière recyclée dans les emballages | Obtenir du recyclé apte à l'emballage, y compris au contact des aliments. | | R A | 1.2.5.3.6
 1.2.4.3.3 | Remplacer le plastique par des matériaux réellement meilleurs | Substituer papier, fibres, verre ou compostables seulement quand le bilan complet est favorable. | | R P B |
 1.2.4.3.4 | Éliminer les substances dangereuses des emballages | Retirer PFAS, bisphénols, encres et additifs nocifs des emballages, surtout alimentaires. | | P | 1.2.2.2
 1.2.4.4.1 | Remplacer les produits d'hygiène jetables | Substituer des versions lavables ou durables aux couches, protections, lingettes et cotons. | | R P |
-1.2.4.4.2 | Remplacer la vaisselle et les articles de table jetables | Passer au réutilisable dans la restauration, les événements et à domicile. | | R P |
-1.2.4.4.3 | Remplacer les petits objets jetables | Supprimer ou rendre rechargeables cigarettes électroniques, briquets, rasoirs, piles, cartouches et gadgets. | | R P |
+1.2.4.4.2 | Remplacer la vaisselle et les articles de table jetables | Passer au réutilisable dans la restauration sur place, les événements et à domicile. | | R P |
+1.2.4.4.3 | Remplacer les petits objets jetables | Supprimer ou rendre rechargeables cigarettes électroniques, briquets, rasoirs, piles, cartouches, filtres de cigarette et gadgets. | | R P B |
 1.2.4.4.4 | Réduire l'usage unique dans les soins et au travail | Remplacer, quand la sécurité le permet, les consommables jetables des hôpitaux et des entreprises. | | R P |
 
 # ── 1.2.5 Collecter et valoriser les déchets
-1.2.5.1.1 | Créer un service de collecte là où il n'existe pas | Desservir les quartiers et villages sans ramassage, en s'appuyant sur les récupérateurs informels. | | P B R |
-1.2.5.1.2 | Financer et optimiser la collecte existante | Payer le service par ceux qui produisent les déchets et réduire son coût et ses émissions. | | R A |
-1.2.5.1.3 | Supprimer les dépôts sauvages et le brûlage à l'air libre | Empêcher l'abandon et la combustion des déchets hors de tout service. | | P B |
-1.2.5.1.4 | Arrêter les fuites de déchets vers les rivières et la mer | Intercepter les déchets avant qu'ils n'atteignent l'eau et retirer ceux qui s'y trouvent. | | B P D |
-1.2.5.1.5 | Collecter les produits en fin de vie hors de la poubelle | Capter appareils, textiles, meubles, piles et encombrants par la reprise en magasin, l'apport volontaire et la collecte à domicile. | | R P |
+1.2.5.1.1 | Créer un service de collecte là où il n'existe pas | Desservir les quartiers, villages et camps sans ramassage, et maintenir le service pendant les crises. | | P B R D |
+1.2.5.1.2 | Intégrer les récupérateurs informels | Faire des millions de personnes qui vivent de la récupération des acteurs reconnus, payés et protégés du service. | | R P |
+1.2.5.1.3 | Faire financer et organiser la fin de vie par les producteurs | Créer, piloter et contrôler les filières de responsabilité élargie des producteurs, au Nord comme au Sud. | | R P | 1.2.1.3.1
+1.2.5.1.4 | Faire payer et optimiser la collecte auprès des usagers | Tarifer le service selon les quantités jetées et réduire son coût et ses émissions. | | R A |
+1.2.5.1.5 | Supprimer les dépôts sauvages et le brûlage à l'air libre | Empêcher l'abandon diffus et la combustion des déchets hors de toute installation. | | P B A |
+1.2.5.1.6 | Arrêter les fuites de déchets vers les rivières et la mer | Intercepter les déchets dans les caniveaux, les égouts et les cours d'eau urbains avant qu'ils n'atteignent le milieu et ne bouchent l'évacuation des pluies. | | B P D |
 1.2.5.2.1 | Obtenir le geste de tri des habitants | Rendre le tri simple, compris et pratiqué, y compris en habitat collectif. | | R |
 1.2.5.2.2 | Trier hors du domicile | Séparer les déchets dans l'espace public, les entreprises, les commerces et les événements. | | R |
-1.2.5.2.3 | Moderniser le tri industriel | Séparer mécaniquement et optiquement les matières avec la pureté qu'exigent les recycleurs. | | R |
+1.2.5.2.3 | Récupérer les emballages par la consigne pour recyclage | Obtenir des taux de collecte très élevés des bouteilles et canettes par un dépôt remboursé. | | R P |
+1.2.5.2.4 | Collecter les produits en fin de vie hors de la poubelle | Capter appareils, textiles, meubles, piles et encombrants par la reprise en magasin, l'apport volontaire et la collecte à domicile. | | R P |
+1.2.5.2.5 | Moderniser le tri industriel | Séparer mécaniquement et optiquement les matières avec la pureté qu'exigent les recycleurs. | | R |
 1.2.5.3.1 | Recycler les plastiques | Recycler les plastiques des ménages en matière de qualité, par voie mécanique ou chimique. | | R A P |
 1.2.5.3.2 | Recycler les textiles | Refaire de la fibre à partir de vêtements usagés mélangés. | | R A |
-1.2.5.3.3 | Recycler les équipements électriques et les batteries | Récupérer les métaux, y compris critiques, des appareils et des batteries, sans incendie ni pollution. | | R P |
+1.2.5.3.3 | Recycler les équipements électriques et les batteries | Récupérer les métaux, y compris critiques, des appareils et des batteries, sans incendie ni pollution, en intégrant les recycleurs informels. | | R P |
 1.2.5.3.4 | Recycler le verre, les papiers-cartons et les métaux | Porter les boucles déjà établies à leur maximum de taux et de qualité. | | R A |
 1.2.5.3.5 | Recycler les meubles, les matelas et les produits composites | Séparer et valoriser les produits volumineux faits de plusieurs matières liées. | | R |
-1.2.5.3.6 | Créer une demande pour la matière recyclée | Faire que la matière recyclée trouve preneur face à une matière vierge souvent moins chère. | | R A |
+1.2.5.3.6 | Créer une demande pour la matière recyclée | Faire que la matière recyclée trouve preneur face à une matière vierge souvent moins chère : taux d'incorporation, prix, normes de qualité. | | R A |
 1.2.5.4.1 | Trier les biodéchets à la source | Séparer les déchets de cuisine et de jardin dès le logement, y compris en ville dense. | | R A |
 1.2.5.4.2 | Composter près de chez soi | Traiter les biodéchets sur place, dans le jardin, l'immeuble ou le quartier. | | R A |
 1.2.5.4.3 | Traiter les biodéchets à grande échelle et les rendre au sol | Composter ou méthaniser les flux collectés et écouler un amendement propre. | | R A P |
-1.2.5.5.1 | Fermer les décharges sauvages et capter le méthane | Remplacer les dépotoirs par des installations contrôlées, capter leur gaz et réduire ce qu'on y enfouit. | | A P |
+1.2.5.5.1 | Remplacer les dépotoirs par des décharges contrôlées et capter leur méthane | Fermer les décharges à ciel ouvert, capter le gaz des installations et réduire ce qu'on y enfouit. | | A P |
 1.2.5.5.2 | Limiter et dépolluer l'incinération | Ne brûler que ce qui ne peut être recyclé, avec des fumées propres et une énergie récupérée. | | P A |
-1.2.5.5.3 | Arrêter les exportations de déchets nuisibles | Empêcher l'envoi de déchets vers des pays qui ne peuvent pas les traiter correctement. | | P |
-1.2.5.5.4 | Traiter les déchets dangereux des ménages | Collecter et neutraliser peintures, solvants, médicaments, piles au plomb et produits au mercure. | | P B |
+1.2.5.5.3 | Arrêter les exportations de déchets nuisibles | Empêcher l'envoi de déchets vers des pays qui ne peuvent pas les traiter correctement. | | P B R |
+1.2.5.5.4 | Traiter les déchets dangereux des ménages | Neutraliser peintures, solvants, médicaments, piles au plomb et produits au mercure une fois collectés. | | P B | 1.2.5.2.4

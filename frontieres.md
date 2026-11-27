@@ -56,8 +56,17 @@ Seules « Mieux se loger » et « Mieux consommer » sont développées. Ce docu
 | Bricolage, jardin | Les travaux et la parcelle | Les outils et produits en tant qu'objets |
 | Produits d'entretien, peintures, mobilier | Leur effet sur l'air intérieur | Leur composition (substances dangereuses) |
 
-## Exclusions à valider
+## Exclusions
 
 - **Épargne et finance des ménages** : levier transverse de financement, pas un bien de consommation ; exclu.
 - **Services non numériques** (santé, éducation, culture, loisirs) : leur empreinte se trouve dans leurs bâtiments, leurs déplacements et leurs achats, déjà couverts ou hors périmètre ; pas de branche propre.
-- **Animaux de compagnie** : alimentation rattachée à « se nourrir » ; exclus.
+- **Animaux de compagnie** : leur alimentation relève de « se nourrir » ; leurs accessoires et leurs soins non alimentaires (antiparasitaires, litières) sont des biens de consommation, dans le périmètre.
+- **Séismes et autres aléas non climatiques** : hors périmètre, même si les travaux de renforcement se font souvent avec la rénovation énergétique.
+- **Ouvrages collectifs de protection** (digues, bassins de rétention, ouvrages de montagne) : aménagement du territoire, hors périmètre. L'échelle du lotissement ou de la copropriété reste dans le périmètre.
+- **Réseaux publics d'eau potable et d'assainissement** : hors périmètre ; les solutions à l'échelle du bâtiment ou du quartier non desservi sont dans le périmètre.
+- **Alerte sanitaire et suivi des personnes isolées** pendant les canicules : santé publique, hors périmètre ; les lieux rafraîchis sont dans le périmètre.
+- **Dépollution des rivières et des océans** : « préserver les écosystèmes » ; l'interception des déchets en ville est dans le périmètre.
+- **Qualité du logement sans lien avec les cinq défis** (bruit, lumière naturelle, surpeuplement) : hors périmètre.
+- **Vélos, trottinettes, pneus, véhicules et leurs batteries** : « se déplacer », y compris leur réparation et leur recyclage.
+- **Conditions de travail dans les chaînes d'approvisionnement** : enjeu social, hors des cinq défis.
+- **Petits équipements thermiques du jardin et de la terrasse** (outils à moteur, chauffages d'extérieur) : non traités ; lacune connue, de faible poids.
