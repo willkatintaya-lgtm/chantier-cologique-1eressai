@@ -1,0 +1,58 @@
+# Quasi-doublons de libellés (niveaux 6 à 8), similarité ≥ 0.6
+
+18 paires sur 9419 boîtes.
+
+- 0.80 
+  - 1.1.5.6.2.5.4 Faire appliquer les règles là où le contrôle est faible
+  - 1.2.1.2.1.4.3 Faire appliquer les règles là où le contrôle est faible ou informel
+- 0.71 
+  - 1.1.1.3.3.3 Rendre le raccordement obligatoire ou attractif sans léser les ménages modestes
+  - 1.1.1.3.3.3.4 Protéger les ménages modestes d'un raccordement obligatoire ou attractif
+- 0.71 
+  - 1.1.3.1.2.2 Ventiler les combles et les toitures existants sans refaire la couverture
+  - 1.1.3.1.2.2.1 Ventiler les combles perdus sous une couverture existante sans la refaire
+- 0.67 
+  - 1.1.1.1.2.4.1 Sortir d'un contrat de chauffe avant son terme
+  - 1.1.1.2.4.3.3 Sortir des contrats de concession avant leur terme
+- 0.67 
+  - 1.1.6.1.2.3 Diviser ou partager un grand logement malgré urbanisme, règlement de copropriété et bail
+  - 1.1.6.1.2.3.2 Diviser ou partager un logement en copropriété malgré le règlement
+- 0.67 
+  - 1.1.1.2.2.1.1 Fixer une règle de priorité des usages du gaz renouvelable
+  - 1.1.1.4.3.1.1 Fixer une règle de priorité entre les usages du bois
+- 0.67 
+  - 1.1.4.5.1.4 Faire peser l'exposition sur les décisions d'achat, de location et de construction
+  - 1.1.4.5.1.4.2 Faire peser l'exposition dans les décisions de construction
+- 0.62 
+  - 1.1.6.4.3.3.3 Relever le prix de la matière vierge et de l'enfouissement face au recyclé
+  - 1.2.5.3.6.1 Rendre la matière recyclée compétitive en prix face à la matière vierge
+- 0.62 
+  - 1.1.3.4.1.4 Repérer les logements surchauffés des ménages pauvres et y faire poser des équipements
+  - 1.1.3.4.1.4.1 Repérer les logements surchauffés occupés par des ménages pauvres
+- 0.62 
+  - 1.2.1.1.2.4 Faire peser le score dans la décision face au prix, à la marque et à l'habitude
+  - 1.2.1.1.2.4.3 Faire peser le score face à la marque, à l'habitude et à l'envie
+- 0.60 
+  - 1.1.3.2.2.2.2.2 Faire acheter un brasseur efficace par un bailleur ou un employeur qui ne paie pas la facture d'électricité
+  - 1.1.3.3.1.2.3.1 Faire acheter un appareil efficace par un bailleur qui ne paie pas la facture d'électricité de son locataire
+- 0.60 (sœurs)
+  - 1.1.1.3.2.5.3 Stocker la chaleur d'un jour à l'autre
+  - 1.1.1.3.2.5.4 Stocker la chaleur d'une saison à l'autre
+- 0.60 (sœurs)
+  - 1.1.2.1.2.4.1 Isoler au moment de la réfection de la couverture
+  - 1.1.2.1.2.4.3 Isoler au moment de la réfection d'un sol ou d'un plancher
+- 0.60 
+  - 1.1.1.2.2.4 Prouver que le gaz vendu comme renouvelable l'est vraiment
+  - 1.1.1.2.2.4.2 Prouver la durabilité du gaz vendu comme renouvelable
+- 0.60 
+  - 1.1.1.2.4.5 Déconnecter, sécuriser et réutiliser les canalisations de gaz abandonnées
+  - 1.1.1.2.4.5.3 Réutiliser les canalisations abandonnées
+- 0.60 
+  - 1.1.2.2.6.1.2 Mesurer les consommations réelles bâtiment par bâtiment
+  - 1.2.1.1.1.2.2 Mesurer les consommations réelles des usines
+- 0.60 
+  - 1.1.2.2.4.2.3 Rendre les obligations applicables et contrôlables
+  - 1.2.3.3.4.4 Rendre applicable et contrôlable l'obligation de ne pas détruire les invendus
+- 0.60 (sœurs)
+  - 1.1.4.5.1.4.2 Faire peser l'exposition dans les décisions de construction
+  - 1.1.4.5.1.4.4 Faire peser l'exposition dans les décisions des intermédiaires
