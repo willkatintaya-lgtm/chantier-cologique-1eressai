@@ -15,6 +15,20 @@ Arrêt volontaire le 27 novembre 2026, pour ne pas épuiser les crédits. Tout e
 - Aucune relecture des niveaux 7 et 8 par un agent n'a été faite. Seuls contrôles passés : la forme de chaque lot (`outils/verifier_lot.py`) et la recherche automatique de doublons sur tout l'arbre (`verification/doublons.md` : 18 paires proches, aucune quasi identique).
 - Test final (60 problèmes) : fait, voir `rapport.md`.
 
+## Pourquoi il reste ces choses-là, et pas d'autres
+
+- **Pourquoi « Mieux consommer » et pas « Mieux se loger »** : les agents ont traité les chantiers dans l'ordre de l'arbre, « se loger » d'abord. La limite d'usage de 5 heures est tombée à mi-parcours ; à la reprise, on a arrêté volontairement avant la fin pour garder des crédits. Les 83 chantiers restants ne sont ni plus difficiles ni défectueux : ils n'ont simplement pas encore été lancés ou ont été coupés en cours d'écriture (les fichiers incomplets ont été supprimés).
+- **Pourquoi leurs niveaux 1 à 6 sont déjà sûrs** : tout ce qui structure l'arbre (découpage, frontières, verrous majeurs) a été vérifié avant de descendre. Il ne reste que du remplissage guidé : chaque chantier a ses verrous de niveau 6 et son dossier prêt.
+- **Pourquoi il n'y a pas eu de relecture des niveaux 7 et 8** : elle a été lancée, coupée par la limite d'usage, puis abandonnée à la demande de l'utilisateur (« première version, pas besoin d'être rigoureux »). Ne pas la relancer sans qu'il le demande.
+
+## Décisions déjà prises (à ne pas rediscuter)
+
+- Structure : 11 grands chantiers, 50 leviers, 207 chantiers ; les ids ne doivent plus bouger, les lots en dépendent.
+- Modèle : Sonnet pour écrire les niveaux 7 et 8 (comparé à Haiku sur un chantier : Haiku plus lent, plus gourmand, moins fouillé).
+- Grain : 3 ou 4 filles par boîte, 5 si indispensable ; environ 46 problèmes par chantier.
+- Un agent par chantier, avec un seul fichier à lire (`lots/dossier/<id>.md`) ; pas de recherche web.
+- Priorité de l'utilisateur : dépenser peu. Annoncer le coût avant de lancer, avancer par petites vagues, s'arrêter proprement.
+
 ## Ce qu'il reste à faire
 
 1. Écrire les niveaux 7 et 8 des 83 chantiers restants (tous sous 1.2).
